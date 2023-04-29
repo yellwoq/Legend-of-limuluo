@@ -1,0 +1,31 @@
+<b><b><size=35><color=yellow>关于注册/登录</color></size></b>
+<line-indent=5%>玩家进入游戏后会弹出登录界面和注册界面，若玩家是首次进入，则需到注册界面注册帐号去，注册成功后，可到登录界面登录进入游戏，登陆时玩家可选择输入框下方的记住密码开关，下次登录即可直接登录。</indent>
+<b><size=35><color=purple>关于主界面</color></size></b>
+<line-indent=5%>玩家登录成功后，可以选择自己的进度或更改，也可以修改个人信息，点击继续游戏或开始游戏后会显示玩家所存储的所有进度条，玩家可以选择任意的进度条加载，左上方会给与提示信息，如若是开始游戏中的进度条，如果玩家点了已经存在的进度，则会覆盖玩家之前的进度，自动进入创造英雄的界面，玩家可以在该界面创建自己的英雄玩家可以选择战士或法师两种职位，不同的职位对应不同的属性。</indent>
+<b><size=35><color=blue>关于游戏界面</color></size></b>
+<line-indent=5%>玩家进入游戏界面后，需要完成指定的任务才能进行下一个任务，玩家击杀小怪和Boss可能掉落相应的奖励，和NPC对话可获得相关的任务信息，完成任务即可获得奖励。玩家可以在游戏中查看小地图，玩家英雄的信息，背包信息，任务信息，技能信息以及系统。</indent>
+<b><size=35><color=orange>关于游戏操作</color></size></b>
+<b><size=32><color=purple>Window或Mac平台</color></size></b>
+<space=1em><size=30><voffset=0.35em><sprite name="W" ></voffset></size>(W)或<space=1em><size=30><voffset=0.25em><sprite name="UpArrow"></voffset></size>(上方向键)或鼠标拖动屏幕摇杆向上——> 玩家向上移动
+<space=1em><size=30><voffset=0.35em><sprite name="A" ></voffset></size>(A)或<space=1em><size=30><voffset=0.25em><sprite name="LeftArrow"></voffset></size>(左方向键)或鼠标拖动屏幕摇杆向左——> 玩家向左移动
+<space=1em><size=30><voffset=0.35em><sprite name="S" ></voffset></size>(S)或<space=1em><size=30><voffset=0.25em><sprite name="DownArrow"></voffset></size>(下方向键)或鼠标拖动屏幕摇杆向下——> 玩家向下移动
+<space=1em><size=30><voffset=0.35em><sprite name="D" ></voffset></size>(D)或<space=1em><size=30><voffset=0.25em><sprite name="RightArrow"></voffset></size>(右方向键)或鼠标拖动屏幕摇杆向右——> 玩家向右移动
+<space=1em><size=30><voffset=0.35em><sprite name="Space" ></voffset></size>(空格)或鼠标点击屏幕最右下角第一个按钮——> 玩家普攻
+<space=1em><size=30><voffset=0.35em><sprite name="J" ></voffset></size>(J)或鼠标点击屏幕右下角最上方按钮——> 一技能
+<space=1em><size=30><voffset=0.35em><sprite name="K" ></voffset></size>(K)或鼠标点击屏幕右下角中间方按钮——> 二技能
+<space=1em><size=30><voffset=0.35em><sprite name="L" ></voffset></size>(L)或鼠标点击屏幕右下角最左方按钮——> 三技能
+<b><size=32><color=red>Andiron平台</color></size></b>
+拖动屏幕摇杆向上———> 玩家向上移动
+拖动屏幕摇杆向左———> 玩家向左移动
+拖动屏幕摇杆向下———> 玩家向下移动
+拖动屏幕摇杆向右———> 玩家向右移动
+点击屏幕最右下角第一个按钮———> 玩家普攻
+点击屏幕右下角最上方按钮—————> 一技能
+点击屏幕右下角中间方按钮—————> 二技能
+点击屏幕右下角最左方按钮—————> 三技能
+<b><size=35><color=green>关于作者</color></size></b>
+一个爱好游戏开发的帅哥 <space=1em><size=40><voffset=0.35em><sprite="EmojiOne" index=24></voffset></size>，求关注：
+<b><size=32>QQ：1551935747</size></b>
+<b><size=32>微信：ages18243392575</size></b>
+<b><size=22>B站账号名：茯苓雨折</size></b>
+个人空间：<u><size=30><color=blue><link="mySpace">https://space.bilibili.com/259513685</link></color></size></u>
