@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7184531a236bcb746b1fb026e5ac9bbc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - defaultSprite: {fileID: 21300000, guid: a60bf055f21fff64d91c5557305f7a97, type: 3}
+  - beginDialogue: {instanceID: 0}
+  - ongoingDialogue: {instanceID: 0}
+  - completeDialogue: {instanceID: 0}
+  - MOriginQuestGiver: {instanceID: 0}
+  - MCurrentQuestGiver: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

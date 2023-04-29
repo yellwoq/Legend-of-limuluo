@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: c6295049665276248b2b5de363664770
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1139280333731659533
+    second: "\u4EBA\u72691_0"
+  - first:
+      213: 3810374956776066064
+    second: "\u4EBA\u72691_1"
+  - first:
+      213: -4663407076608804959
+    second: "\u4EBA\u72691_2"
+  - first:
+      213: -5204355422778556253
+    second: "\u4EBA\u72691_3"
+  - first:
+      213: -777235010550842456
+    second: "\u4EBA\u72691_4"
+  - first:
+      213: -3842552654411589723
+    second: "\u4EBA\u72691_5"
+  - first:
+      213: -6697109306555259520
+    second: "\u4EBA\u72691_6"
+  - first:
+      213: 525305476660814709
+    second: "\u4EBA\u72691_7"
+  - first:
+      213: -6168165652485443622
+    second: "\u4EBA\u72691_8"
+  - first:
+      213: 4360581261908926133
+    second: "\u4EBA\u72691_9"
+  - first:
+      213: 6947217403824350717
+    second: "\u4EBA\u72691_10"
+  - first:
+      213: 7221851102686529081
+    second: "\u4EBA\u72691_11"
+  - first:
+      213: -6600862785865610993
+    second: "\u4EBA\u72691_12"
+  - first:
+      213: -7522179948191605572
+    second: "\u4EBA\u72691_13"
+  - first:
+      213: -8633589566957334154
+    second: "\u4EBA\u72691_14"
+  - first:
+      213: -8768832095127002703
+    second: "\u4EBA\u72691_15"
+  - first:
+      213: 3969451101700503700
+    second: Escort_0
+  - first:
+      213: 2170660639048456004
+    second: Escort_1
+  - first:
+      213: 1756939966257006343
+    second: Escort_2
+  - first:
+      213: 4875878334210041702
+    second: Escort_3
+  - first:
+      213: 3722355559826681150
+    second: Escort_4
+  - first:
+      213: -1060437138776126410
+    second: Escort_5
+  - first:
+      213: 6223493369436168775
+    second: Escort_6
+  - first:
+      213: -5650218556515158277
+    second: Escort_7
+  - first:
+      213: -6509649805021374958
+    second: Escort_8
+  - first:
+      213: -6552480001583235845
+    second: Escort_9
+  - first:
+      213: 4622784731943604270
+    second: Escort_10
+  - first:
+      213: 1594436314215423186
+    second: Escort_11
+  - first:
+      213: 3707724452023338744
+    second: Escort_12
+  - first:
+      213: 2434162486342537916
+    second: Escort_13
+  - first:
+      213: 8954364139040600
+    second: Escort_14
+  - first:
+      213: 3175587555240835940
+    second: Escort_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Escort_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4983426feb2561730800000000000000
+      internalID: 3969451101700503700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escort_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 145
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447d76eb95cbf1e10800000000000000
+      internalID: 2170660639048456004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escort_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 145
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7078f643797e16810800000000000000
+      internalID: 1756939966257006343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escort_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 145
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667ec9ee2899aa340800000000000000
+      internalID: 4875878334210041702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escort_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d6b27e8a678a330800000000000000
+      internalID: 3722355559826681150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escort_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 97
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c0e9c6a029841f0800000000000000
+      internalID: -1060437138776126410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escort_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 96
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742ed3bfe3a4e5650800000000000000
+      internalID: 6223493369436168775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escort_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 97
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6f793b8246691b0800000000000000
+      internalID: -5650218556515158277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escort_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 48
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216928fedf319a5a0800000000000000
+      internalID: -6509649805021374958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escort_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 49
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcb7c3b72ae015a0800000000000000
+      internalID: -6552480001583235845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escort_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 48
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20199c983e672040800000000000000
+      internalID: 4622784731943604270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escort_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 49
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc1bcd4163902610800000000000000
+      internalID: 1594436314215423186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escort_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f681e7aebb747330800000000000000
+      internalID: 3707724452023338744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escort_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2570472e1e7c120800000000000000
+      internalID: 2434162486342537916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escort_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f62bd52ffcf1000800000000000000
+      internalID: 8954364139040600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escort_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bf7477e04f11c20800000000000000
+      internalID: 3175587555240835940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 81c0d72258dd3bd4bb2f3d12aab440f7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

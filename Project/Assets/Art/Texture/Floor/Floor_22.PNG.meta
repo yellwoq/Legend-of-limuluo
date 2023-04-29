@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 8579f54361817ef4387a273411c3ab46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5336248078824107984
+    second: Floor_22_0
+  - first:
+      213: -4303058033627619351
+    second: Floor_22_1
+  - first:
+      213: -3258723324302557552
+    second: Floor_22_2
+  - first:
+      213: -1178339693140612896
+    second: Floor_22_3
+  - first:
+      213: -3958412781581339223
+    second: Floor_22_4
+  - first:
+      213: 3034371391292611957
+    second: Floor_22_5
+  - first:
+      213: -9033862656236223828
+    second: Floor_22_6
+  - first:
+      213: -3904598149028691226
+    second: Floor_22_7
+  - first:
+      213: -540497668739429834
+    second: Floor_22_8
+  - first:
+      213: 4416250089682006522
+    second: Floor_22_9
+  - first:
+      213: 5957291435431371735
+    second: Floor_22_10
+  - first:
+      213: -846163056761398956
+    second: Floor_22_11
+  - first:
+      213: -6617746971556933490
+    second: Floor_22_12
+  - first:
+      213: -676169784224026898
+    second: Floor_22_13
+  - first:
+      213: -4200739516089209477
+    second: Floor_22_14
+  - first:
+      213: -298800816188564556
+    second: Floor_22_15
+  - first:
+      213: 2657991393695813823
+    second: Floor_22_16
+  - first:
+      213: 6236379870182948565
+    second: Floor_22_17
+  - first:
+      213: 526296093428589678
+    second: Floor_22_18
+  - first:
+      213: -3994795051874662985
+    second: Floor_22_19
+  - first:
+      213: 616041945990812320
+    second: Floor_22_20
+  - first:
+      213: -633391525120588898
+    second: Floor_22_21
+  - first:
+      213: -5560730599504859999
+    second: Floor_22_22
+  - first:
+      213: 8177545095909634648
+    second: Floor_22_23
+  - first:
+      213: 7756640859257057230
+    second: Floor_22_24
+  - first:
+      213: 9132919909445407949
+    second: Floor_22_25
+  - first:
+      213: -4540295633528526945
+    second: Floor_22_26
+  - first:
+      213: -3890425916764980258
+    second: Floor_22_27
+  - first:
+      213: -1935291361172028538
+    second: Floor_22_28
+  - first:
+      213: 9177776906540984573
+    second: Floor_22_29
+  - first:
+      213: -5044629395505423432
+    second: Floor_22_30
+  - first:
+      213: -6943100318535806288
+    second: Floor_22_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 1, w: 32}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floor_22_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030145c15a6d1f5b0800000000000000
+      internalID: -5336248078824107984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_22_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 65
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef1cb954877844c0800000000000000
+      internalID: -4303058033627619351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_22_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e7aa9e660b6c2d0800000000000000
+      internalID: -3258723324302557552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

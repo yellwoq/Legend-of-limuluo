@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UserObjects
+  - MainObjects
+  - MainCanvas
+  - Enemy
+  - AirBarriar
+  - GameCanvas
+  - HeroCanvas
+  - soldier
+  - Bag_item_grid
+  - Bag_item
+  - obstruct
+  - NPC
+  - MapCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 2DObject
+  - Mark
+  - Player
+  - Enemy
+  - obstruct
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

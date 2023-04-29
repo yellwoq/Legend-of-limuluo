@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7184531a236bcb746b1fb026e5ac9bbc, type: 3}
+  m_Name: MainQuest9
+  m_EditorClassIdentifier: 
+  defaultSprite: {fileID: 21300000, guid: a60bf055f21fff64d91c5557305f7a97, type: 3}
+  ID: MQ00009
+  isFirstAcceted: 1
+  title: "\u8FFD\u51FB\u51F6\u624B5"
+  description: "\u73B0\u5728\u5C31\u53BB\u51F6\u624B\u90A3\u91CC\u5427"
+  abandonable: 0
+  acceptConditions:
+  - conditionType: 5
+    level: 0
+    IDOfCompleteQuest: 
+    completeQuest: {fileID: 11400000, guid: 21171a5ec1d787845ab05d380b6d09e7, type: 2}
+    IDOfOwnedItem: 
+    OwnedItemNum: 0
+    IDofStoryAgent: 
+  beginDialogue: {fileID: 0}
+  ongoingDialogue: {fileID: 0}
+  completeDialogue: {fileID: 0}
+  questReward:
+    money: 50
+    exp: 50
+    Itemrewards: []
+  cmpltOnOriginalNPC: 1
+  IDOfNPCToComplete: NPC000
+  cmpltObjectiveInOrder: 0
+  collectObjectives: []
+  killObjectives: []
+  talkObjectives: []
+  moveObjectives:
+  - runtimeID: 
+    displayName: "\u62B5\u8FBE\u51EF\u6069\u6240\u5728\u5730"
+    amount: 1
+    inOrder: 1
+    orderIndex: 1
+    pointID: KaiEnPoint
+  MOriginQuestGiver: {fileID: 0}
+  MCurrentQuestGiver: {fileID: 0}
+  IsOngoing: 0

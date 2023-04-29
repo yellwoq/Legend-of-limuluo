@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: f9bf68f1dacc155429e5043ce7198805
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5356109350211190867
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u6C99\u52A0_\u7231\u7ED9\u7F51_aigei_com_0"
+  - first:
+      213: 3435399633889736347
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u6C99\u52A0_\u7231\u7ED9\u7F51_aigei_com_1"
+  - first:
+      213: -6049714504090756684
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u6C99\u52A0_\u7231\u7ED9\u7F51_aigei_com_2"
+  - first:
+      213: -3826986409764489634
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u6C99\u52A0_\u7231\u7ED9\u7F51_aigei_com_3"
+  - first:
+      213: -6618418426577522875
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u6C99\u52A0_\u7231\u7ED9\u7F51_aigei_com_4"
+  - first:
+      213: -2163617860417623900
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u6C99\u52A0_\u7231\u7ED9\u7F51_aigei_com_5"
+  - first:
+      213: 5572996179710747694
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u6C99\u52A0_\u7231\u7ED9\u7F51_aigei_com_6"
+  - first:
+      213: 7512624833548291602
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u6C99\u52A0_\u7231\u7ED9\u7F51_aigei_com_7"
+  - first:
+      213: 711577755959985500
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u6C99\u52A0_\u7231\u7ED9\u7F51_aigei_com_8"
+  - first:
+      213: 6010923446867932120
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u6C99\u52A0_\u7231\u7ED9\u7F51_aigei_com_9"
+  - first:
+      213: 6622729040182616027
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u6C99\u52A0_\u7231\u7ED9\u7F51_aigei_com_10"
+  - first:
+      213: 8947766043327397591
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u6C99\u52A0_\u7231\u7ED9\u7F51_aigei_com_11"
+  - first:
+      213: 2935843818074460497
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u6C99\u52A0_\u7231\u7ED9\u7F51_aigei_com_12"
+  - first:
+      213: 5468302263330162564
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u6C99\u52A0_\u7231\u7ED9\u7F51_aigei_com_13"
+  - first:
+      213: -6648433924608772128
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u6C99\u52A0_\u7231\u7ED9\u7F51_aigei_com_14"
+  - first:
+      213: 7995401141436273015
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u6C99\u52A0_\u7231\u7ED9\u7F51_aigei_com_15"
+  - first:
+      213: -5470935495832098631
+    second: General_XiaDaKe_0
+  - first:
+      213: 6770920583493079368
+    second: General_XiaDaKe_1
+  - first:
+      213: -1845160417897088394
+    second: General_XiaDaKe_2
+  - first:
+      213: -1614687322959649291
+    second: General_XiaDaKe_3
+  - first:
+      213: -4920474520014365098
+    second: General_XiaDaKe_4
+  - first:
+      213: -2594853938747071599
+    second: General_XiaDaKe_5
+  - first:
+      213: 7750995706745188708
+    second: General_XiaDaKe_6
+  - first:
+      213: 825800102065902682
+    second: General_XiaDaKe_7
+  - first:
+      213: 4096581337903917155
+    second: General_XiaDaKe_8
+  - first:
+      213: -3377218813059891153
+    second: General_XiaDaKe_9
+  - first:
+      213: -5909933828181372709
+    second: General_XiaDaKe_10
+  - first:
+      213: 8472305851978436522
+    second: General_XiaDaKe_11
+  - first:
+      213: -2385610125437046290
+    second: General_XiaDaKe_12
+  - first:
+      213: 5621399852186855605
+    second: General_XiaDaKe_13
+  - first:
+      213: 8151029984092085285
+    second: General_XiaDaKe_14
+  - first:
+      213: -1865178054158362619
+    second: General_XiaDaKe_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: General_XiaDaKe_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b82add17255314b0800000000000000
+      internalID: -5470935495832098631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_XiaDaKe_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 145
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8415c75956427fd50800000000000000
+      internalID: 6770920583493079368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_XiaDaKe_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 146
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67af1a1406ca466e0800000000000000
+      internalID: -1845160417897088394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_XiaDaKe_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 145
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5e9ab4f6a7799e0800000000000000
+      internalID: -1614687322959649291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_XiaDaKe_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 98
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ede2c6e76f6bbb0800000000000000
+      internalID: -4920474520014365098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_XiaDaKe_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 98
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19325f0471a3dfbd0800000000000000
+      internalID: -2594853938747071599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_XiaDaKe_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 98
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461ff1c5781119b60800000000000000
+      internalID: 7750995706745188708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_XiaDaKe_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 98
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a549e1b41d4d57b00800000000000000
+      internalID: 825800102065902682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_XiaDaKe_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 50
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368e14fa50bf9d830800000000000000
+      internalID: 4096581337903917155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_XiaDaKe_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 50
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f208ccef165b121d0800000000000000
+      internalID: -3377218813059891153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_XiaDaKe_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 50
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd05f25de72bbfda0800000000000000
+      internalID: -5909933828181372709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_XiaDaKe_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 50
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf43afb84da39570800000000000000
+      internalID: 8472305851978436522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_XiaDaKe_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1ffbcfa3c94eed0800000000000000
+      internalID: -2385610125437046290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_XiaDaKe_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8e702d169330e40800000000000000
+      internalID: 5621399852186855605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_XiaDaKe_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cdd53a5964e1170800000000000000
+      internalID: 8151029984092085285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_XiaDaKe_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508590f117e8d16e0800000000000000
+      internalID: -1865178054158362619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2a317020361f40a4d97faa83f6550761
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: e2e88f5015c172e43956cf9f65f95582
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7837367650447050090
+    second: "\u4EBA (1)_0"
+  - first:
+      213: 8266200691381665995
+    second: "\u4EBA (1)_1"
+  - first:
+      213: -9139197681361041406
+    second: "\u4EBA (1)_2"
+  - first:
+      213: -7807076652786147435
+    second: "\u4EBA (1)_3"
+  - first:
+      213: -2413510904031141398
+    second: "\u4EBA (1)_4"
+  - first:
+      213: 4981778957611490300
+    second: "\u4EBA (1)_5"
+  - first:
+      213: -2130871255162454729
+    second: "\u4EBA (1)_6"
+  - first:
+      213: 1440449057783149462
+    second: "\u4EBA (1)_7"
+  - first:
+      213: -839387038590682476
+    second: "\u4EBA (1)_8"
+  - first:
+      213: 8600036591380848271
+    second: "\u4EBA (1)_9"
+  - first:
+      213: 6160395386878926878
+    second: "\u4EBA (1)_10"
+  - first:
+      213: 8712911749406059677
+    second: "\u4EBA (1)_11"
+  - first:
+      213: 6214981712685292329
+    second: Teacher_0
+  - first:
+      213: 6733562795038935576
+    second: Teacher_1
+  - first:
+      213: 555986545635819190
+    second: Teacher_2
+  - first:
+      213: -23593813101329440
+    second: Teacher_3
+  - first:
+      213: -6255516099471559404
+    second: Teacher_4
+  - first:
+      213: -7793303136614921262
+    second: Teacher_5
+  - first:
+      213: -4294618762582910032
+    second: Teacher_6
+  - first:
+      213: 4112694974919332540
+    second: Teacher_7
+  - first:
+      213: -5725514833746301315
+    second: Teacher_8
+  - first:
+      213: -9069630452752936658
+    second: Teacher_9
+  - first:
+      213: -454639328662730409
+    second: Teacher_10
+  - first:
+      213: 4414515217160584415
+    second: Teacher_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Teacher_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 108
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bd72670fc004650800000000000000
+      internalID: 6214981712685292329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teacher_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 110
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a0517afab627d50800000000000000
+      internalID: 6733562795038935576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teacher_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 108
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bef48841d247b700800000000000000
+      internalID: 555986545635819190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teacher_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 72
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3c23f4d8d2caff0800000000000000
+      internalID: -23593813101329440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teacher_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 74
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415b24c2041ff29a0800000000000000
+      internalID: -6255516099471559404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teacher_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 72
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db41238610a8d390800000000000000
+      internalID: -7793303136614921262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teacher_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 36
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb94824df27664c0800000000000000
+      internalID: -4294618762582910032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teacher_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 38
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2d9992a4a331930800000000000000
+      internalID: 4112694974919332540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teacher_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 36
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e62520892ea80b0800000000000000
+      internalID: -5725514833746301315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teacher_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21989bf723322280800000000000000
+      internalID: -9069630452752936658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teacher_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759c22a70fbc0b9f0800000000000000
+      internalID: -454639328662730409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teacher_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcb96e6332834d30800000000000000
+      internalID: 4414515217160584415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e2e5fba334ee5d0499ea45923004ccab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

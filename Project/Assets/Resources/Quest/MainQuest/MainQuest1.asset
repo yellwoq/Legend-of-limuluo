@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7184531a236bcb746b1fb026e5ac9bbc, type: 3}
+  m_Name: MainQuest1
+  m_EditorClassIdentifier: 
+  defaultSprite: {fileID: 21300000, guid: a60bf055f21fff64d91c5557305f7a97, type: 3}
+  ID: MQ00001
+  isFirstAcceted: 1
+  title: "\u4F1A\u89C1\u56FD\u738B"
+  description: "\u73B0\u5728\u4F60\u4E5F18\u5C81\u4E86\uFF0C\u4ECA\u5929\u662F\u4F60\u7684\u751F\u65E5\uFF0C\u53BB\u89C1\u89C1\u4F60\u7236\u7687\u5427"
+  abandonable: 0
+  acceptConditions: []
+  beginDialogue: {fileID: 0}
+  ongoingDialogue: {fileID: 0}
+  completeDialogue: {fileID: 11400000, guid: 3ef32617dc70466469ec6e63b925a9c2, type: 2}
+  questReward:
+    money: 20
+    exp: 20
+    Itemrewards:
+    - itemID: 1
+      rewardNum: 1
+    - itemID: 100
+      rewardNum: 1
+    - itemID: 17
+      rewardNum: 1
+  cmpltOnOriginalNPC: 1
+  IDOfNPCToComplete: NPC000
+  cmpltObjectiveInOrder: 1
+  collectObjectives: []
+  killObjectives: []
+  talkObjectives:
+  - runtimeID: 
+    displayName: "\u4E0E\u56FD\u738B\u5BF9\u8BDD"
+    amount: 1
+    inOrder: 0
+    orderIndex: 1
+    talkerID: NPC001
+    dialogue: {fileID: 11400000, guid: 3ef32617dc70466469ec6e63b925a9c2, type: 2}
+  moveObjectives: []
+  MOriginQuestGiver: {fileID: 0}
+  MCurrentQuestGiver: {fileID: 0}
+  IsOngoing: 0

@@ -1,0 +1,4759 @@
+fileFormatVersion: 2
+guid: 1769c9de4b2d256488dd947bcaf46bf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4667592739821631118
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_0"
+  - first:
+      213: 4035343488632054081
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_1"
+  - first:
+      213: -1186858051560911520
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_2"
+  - first:
+      213: 7576418166450419153
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_3"
+  - first:
+      213: -4537205867576570579
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_4"
+  - first:
+      213: -2563150573418544590
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_5"
+  - first:
+      213: -4937985164818301224
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_6"
+  - first:
+      213: -2036727528364694509
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_7"
+  - first:
+      213: 8194451325125110376
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_8"
+  - first:
+      213: 5822559026048680683
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_9"
+  - first:
+      213: -1456264645687241744
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_10"
+  - first:
+      213: -2406190110726870980
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_11"
+  - first:
+      213: 2029534006704614549
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_12"
+  - first:
+      213: 4385771882364548261
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_13"
+  - first:
+      213: 7414878130221332183
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_14"
+  - first:
+      213: -8550858262196273691
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_15"
+  - first:
+      213: 4414924866460812980
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_16"
+  - first:
+      213: -6914608743172679096
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_17"
+  - first:
+      213: -6307634367574874393
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_18"
+  - first:
+      213: 6917775707549394779
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_19"
+  - first:
+      213: 3109674941733753732
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_20"
+  - first:
+      213: 7161510798802935429
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_21"
+  - first:
+      213: -3632584860888717688
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_22"
+  - first:
+      213: -8261904225263784640
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_23"
+  - first:
+      213: 5222138002083196306
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_24"
+  - first:
+      213: -8628415134718888799
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_25"
+  - first:
+      213: 7643875415222585131
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_26"
+  - first:
+      213: -3007594499874905207
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_27"
+  - first:
+      213: -8380762704602263771
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_28"
+  - first:
+      213: 2405685466631303212
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_29"
+  - first:
+      213: 38584190690257406
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_30"
+  - first:
+      213: 8858749004234366373
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_31"
+  - first:
+      213: -6699121337219852852
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_32"
+  - first:
+      213: -595745538138762956
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_33"
+  - first:
+      213: -571569927164509865
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_34"
+  - first:
+      213: -6417295656336448276
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_35"
+  - first:
+      213: -1348517824060772295
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_36"
+  - first:
+      213: 3501384170998483489
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_37"
+  - first:
+      213: -2453432712964071645
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_38"
+  - first:
+      213: -6079551941024290845
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_39"
+  - first:
+      213: 6286486787604649839
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_40"
+  - first:
+      213: 8783703413724518
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_41"
+  - first:
+      213: -8685118498277676754
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_42"
+  - first:
+      213: -4599621749306680581
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_43"
+  - first:
+      213: 6636011627925172574
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_44"
+  - first:
+      213: 3354525229198054930
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_45"
+  - first:
+      213: 3743749890134193505
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_46"
+  - first:
+      213: 4643906986480455410
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_47"
+  - first:
+      213: -2512961497432768181
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_48"
+  - first:
+      213: -1650263422392640314
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_49"
+  - first:
+      213: -916097852418288448
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_50"
+  - first:
+      213: 6845095853755271739
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_51"
+  - first:
+      213: 8805183183454011769
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_52"
+  - first:
+      213: 8980547691169628637
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_53"
+  - first:
+      213: -9124034056952660857
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_54"
+  - first:
+      213: -3444202223728719863
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_55"
+  - first:
+      213: -2675699678714724232
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_56"
+  - first:
+      213: -504734796859384028
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_57"
+  - first:
+      213: 6151639506186670589
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_58"
+  - first:
+      213: -6954929153166312254
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_59"
+  - first:
+      213: 1432100920422951632
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_60"
+  - first:
+      213: 7469518816177170507
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_61"
+  - first:
+      213: 1490299242253567606
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_62"
+  - first:
+      213: -2395520058498713602
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_63"
+  - first:
+      213: -1139252626055334344
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_64"
+  - first:
+      213: 6602707832885928118
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_65"
+  - first:
+      213: -1478181283389494696
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_66"
+  - first:
+      213: 7979352239629284019
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_67"
+  - first:
+      213: -3280274661496172858
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_68"
+  - first:
+      213: 4200010671250010450
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_69"
+  - first:
+      213: 496308683564638037
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_70"
+  - first:
+      213: 2878170900301613720
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_71"
+  - first:
+      213: 3800066518573969017
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_72"
+  - first:
+      213: -128674377856918834
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_73"
+  - first:
+      213: 8221955043392579406
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_74"
+  - first:
+      213: -1484421303455578358
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_75"
+  - first:
+      213: 2900368463966942224
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_76"
+  - first:
+      213: -2478769533668770863
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_77"
+  - first:
+      213: 4059207435361913269
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_78"
+  - first:
+      213: -2023252455370879436
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_79"
+  - first:
+      213: 1486187815575837371
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_80"
+  - first:
+      213: -9022855229872474158
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_81"
+  - first:
+      213: -7259385552900396396
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_82"
+  - first:
+      213: -6650747282190179441
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_83"
+  - first:
+      213: -7280148459857720399
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_84"
+  - first:
+      213: -5470450656813924231
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_85"
+  - first:
+      213: -8840242666671999848
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_86"
+  - first:
+      213: 7603870225557899649
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_87"
+  - first:
+      213: 6114264902416014822
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_88"
+  - first:
+      213: -2436091674989045773
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_89"
+  - first:
+      213: 166051486635328552
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_90"
+  - first:
+      213: 3370399985052705292
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_91"
+  - first:
+      213: -5946094177712593343
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_92"
+  - first:
+      213: -2777400599783858417
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_93"
+  - first:
+      213: 7595567763418972251
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_94"
+  - first:
+      213: 288065522961412901
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_95"
+  - first:
+      213: 53160848997235310
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_96"
+  - first:
+      213: -3594967328624103458
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_97"
+  - first:
+      213: -227210341888253805
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_98"
+  - first:
+      213: -6439649181863754329
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_99"
+  - first:
+      213: -8111341835599533261
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_100"
+  - first:
+      213: 8577851387214240689
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_101"
+  - first:
+      213: 4324557787181026530
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_102"
+  - first:
+      213: 6124333586571145675
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_103"
+  - first:
+      213: 3559720742996671579
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_104"
+  - first:
+      213: -833966086102304998
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_105"
+  - first:
+      213: -3008065689735898493
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_106"
+  - first:
+      213: -635411853688527712
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_107"
+  - first:
+      213: -8337355559847685455
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_108"
+  - first:
+      213: -1170922465439622349
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_109"
+  - first:
+      213: -582530563607145473
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_110"
+  - first:
+      213: 3250096118592750134
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_111"
+  - first:
+      213: 8566048876020133718
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_112"
+  - first:
+      213: 319954957613336752
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_113"
+  - first:
+      213: -6216853711374984813
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_114"
+  - first:
+      213: -6725856367899306397
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_115"
+  - first:
+      213: -6851570231497913534
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_116"
+  - first:
+      213: 4667429098372274683
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_117"
+  - first:
+      213: -5097625244765406666
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_118"
+  - first:
+      213: -8545897868678720666
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_119"
+  - first:
+      213: -52316445634332053
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_120"
+  - first:
+      213: -4570187637829536481
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_121"
+  - first:
+      213: -8457595571668674873
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_122"
+  - first:
+      213: -6355006299334457038
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_123"
+  - first:
+      213: 8511116226997686170
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_124"
+  - first:
+      213: 139983329112793580
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_125"
+  - first:
+      213: 8084462657980310402
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_126"
+  - first:
+      213: 6970870907130131738
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_127"
+  - first:
+      213: 6591962272004979333
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_128"
+  - first:
+      213: -7546418878345231079
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_129"
+  - first:
+      213: 4376960013981148478
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_130"
+  - first:
+      213: 7991188764252717368
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_131"
+  - first:
+      213: 6277789742862523816
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_132"
+  - first:
+      213: 5903971008064647003
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_133"
+  - first:
+      213: -5887935598278542109
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_134"
+  - first:
+      213: 4181931314707717507
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_135"
+  - first:
+      213: -2843785105245926377
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_136"
+  - first:
+      213: 6469612453420454167
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_137"
+  - first:
+      213: 8032689836112997938
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_138"
+  - first:
+      213: -7040224614839411158
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_139"
+  - first:
+      213: 785825285801560656
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_140"
+  - first:
+      213: -1271610982666957608
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_141"
+  - first:
+      213: 4454826286975179725
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_142"
+  - first:
+      213: -8798060307521235377
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_143"
+  - first:
+      213: -3256476034978750432
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_144"
+  - first:
+      213: 604150632480543292
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_145"
+  - first:
+      213: 8813400701704951873
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_146"
+  - first:
+      213: 6216899498487462075
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_147"
+  - first:
+      213: 275266863953193122
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_148"
+  - first:
+      213: 6968213096951488879
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_149"
+  - first:
+      213: 7110935594189170338
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_150"
+  - first:
+      213: -4505490735328178687
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_151"
+  - first:
+      213: -8777841033083068787
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_152"
+  - first:
+      213: -6084213166803530674
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_153"
+  - first:
+      213: -8113244842887967761
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_154"
+  - first:
+      213: -7543105330189151175
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_155"
+  - first:
+      213: 294427874434086303
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_156"
+  - first:
+      213: -6121865417646946550
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_157"
+  - first:
+      213: 6186727756125499867
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_158"
+  - first:
+      213: -2926378827813562878
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_159"
+  - first:
+      213: 1311927564574745231
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_160"
+  - first:
+      213: 2642238371253664222
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_161"
+  - first:
+      213: 3148696526467377672
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_162"
+  - first:
+      213: -3265725665650278766
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_163"
+  - first:
+      213: 7335922608134790572
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_164"
+  - first:
+      213: 5232532191801380156
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_165"
+  - first:
+      213: -2501372496681955755
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_166"
+  - first:
+      213: 8276733526314032720
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_167"
+  - first:
+      213: 7302825535177529572
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_168"
+  - first:
+      213: -6267429946097647585
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_169"
+  - first:
+      213: 2902249909683325010
+    second: "MapleStory 2-\u6B66\u5668(Weapons)_\u7231\u7ED9\u7F51_aigei_com_170"
+  - first:
+      213: -7491821541795427111
+    second: Equip_0
+  - first:
+      213: 4150144170569116992
+    second: Equip_1
+  - first:
+      213: 3454665414423593058
+    second: Equip_2
+  - first:
+      213: 8275292859785546672
+    second: Equip_3
+  - first:
+      213: -7755109848619091009
+    second: Equip_4
+  - first:
+      213: -4633066184443108889
+    second: Equip_5
+  - first:
+      213: 4661152003312378252
+    second: Equip_6
+  - first:
+      213: 578992236987846156
+    second: Equip_7
+  - first:
+      213: 2448240028655001259
+    second: Equip_8
+  - first:
+      213: 405796281802140898
+    second: Equip_9
+  - first:
+      213: -227989982783664769
+    second: Equip_10
+  - first:
+      213: 8762446103899792300
+    second: Equip_11
+  - first:
+      213: 5005999690351979128
+    second: Equip_12
+  - first:
+      213: -3453323546653085085
+    second: Equip_13
+  - first:
+      213: -7197272474645584360
+    second: Equip_14
+  - first:
+      213: -5223853962633562966
+    second: Equip_15
+  - first:
+      213: -5360134904401103825
+    second: Equip_16
+  - first:
+      213: 5107146392326042876
+    second: Equip_17
+  - first:
+      213: -8258775297633754479
+    second: Equip_18
+  - first:
+      213: 4272512612759646497
+    second: Equip_19
+  - first:
+      213: -1661459667476888270
+    second: Equip_20
+  - first:
+      213: -3123131865852569955
+    second: Equip_21
+  - first:
+      213: -4128488482238825943
+    second: Equip_22
+  - first:
+      213: -7418928840280114610
+    second: Equip_23
+  - first:
+      213: 3622259867940072796
+    second: Equip_24
+  - first:
+      213: 2834576888463989836
+    second: Equip_25
+  - first:
+      213: 3853363516490669284
+    second: Equip_26
+  - first:
+      213: 4119442875113127174
+    second: Equip_27
+  - first:
+      213: -9097505527799214924
+    second: Equip_28
+  - first:
+      213: -4633230635732641502
+    second: Equip_29
+  - first:
+      213: -2579643219541980569
+    second: Equip_30
+  - first:
+      213: 7001739672014552309
+    second: Equip_31
+  - first:
+      213: -3219394130055791863
+    second: Equip_32
+  - first:
+      213: -2207672143740428589
+    second: Equip_33
+  - first:
+      213: -6096707539860873613
+    second: Equip_34
+  - first:
+      213: 9201098699939478873
+    second: Equip_35
+  - first:
+      213: 4995474567714469818
+    second: Equip_36
+  - first:
+      213: 6408986782043394780
+    second: Equip_37
+  - first:
+      213: 6231489430442891375
+    second: Equip_38
+  - first:
+      213: 1053236279010979255
+    second: Equip_39
+  - first:
+      213: -4756906627299913638
+    second: Equip_40
+  - first:
+      213: -2666367330624280628
+    second: Equip_41
+  - first:
+      213: -7228642103622576658
+    second: Equip_42
+  - first:
+      213: 1024138559012947844
+    second: Equip_43
+  - first:
+      213: 5553362372429551527
+    second: Equip_44
+  - first:
+      213: 1322263127515159212
+    second: Equip_45
+  - first:
+      213: -4886282239127675653
+    second: Equip_46
+  - first:
+      213: 7047994013467546217
+    second: Equip_47
+  - first:
+      213: 4016108230650095745
+    second: Equip_48
+  - first:
+      213: -8774717238518956291
+    second: Equip_49
+  - first:
+      213: 7506145264785242872
+    second: Equip_50
+  - first:
+      213: 1473161156615818652
+    second: Equip_51
+  - first:
+      213: -4285464916021356716
+    second: Equip_52
+  - first:
+      213: -5941597124477378605
+    second: Equip_53
+  - first:
+      213: 8940938634231039162
+    second: Equip_54
+  - first:
+      213: -4711561207552450411
+    second: Equip_55
+  - first:
+      213: -2819009398484616991
+    second: Equip_56
+  - first:
+      213: 7449906975506867720
+    second: Equip_57
+  - first:
+      213: 6675901077131247251
+    second: Equip_58
+  - first:
+      213: 6254831879175697065
+    second: Equip_59
+  - first:
+      213: 4137678193709108027
+    second: Equip_60
+  - first:
+      213: 8541454711834407855
+    second: Equip_61
+  - first:
+      213: -4598062573721896872
+    second: Equip_62
+  - first:
+      213: -6333117855845431025
+    second: Equip_63
+  - first:
+      213: -5733498848517850101
+    second: Equip_64
+  - first:
+      213: -3083138406376925594
+    second: Equip_65
+  - first:
+      213: 1073516470534145278
+    second: Equip_66
+  - first:
+      213: -5489363747553553459
+    second: Equip_67
+  - first:
+      213: 6819618551276330861
+    second: Equip_68
+  - first:
+      213: -3474415277435698751
+    second: Equip_69
+  - first:
+      213: 7389681396458856392
+    second: Equip_70
+  - first:
+      213: -739658880572665296
+    second: Equip_71
+  - first:
+      213: -8829118042591041203
+    second: Equip_72
+  - first:
+      213: 460390832392985380
+    second: Equip_73
+  - first:
+      213: 2364330458560137421
+    second: Equip_74
+  - first:
+      213: -6783410810398573490
+    second: Equip_75
+  - first:
+      213: -4078183792428751538
+    second: Equip_76
+  - first:
+      213: 1407923944919726316
+    second: Equip_77
+  - first:
+      213: -8008332808274954241
+    second: Equip_78
+  - first:
+      213: -3113225646747529900
+    second: Equip_79
+  - first:
+      213: 6774985260579374110
+    second: Equip_80
+  - first:
+      213: 7697697249418834209
+    second: Equip_81
+  - first:
+      213: 5580023796714532335
+    second: Equip_82
+  - first:
+      213: -2527472584590057269
+    second: Equip_83
+  - first:
+      213: -7886721834855664847
+    second: Equip_84
+  - first:
+      213: 4823628239522945792
+    second: Equip_85
+  - first:
+      213: 6446271506487463416
+    second: Equip_86
+  - first:
+      213: -2195107823503811907
+    second: Equip_87
+  - first:
+      213: 8051209749566204728
+    second: Equip_88
+  - first:
+      213: 4223374637487387905
+    second: Equip_89
+  - first:
+      213: -2247118272053915039
+    second: Equip_90
+  - first:
+      213: -8180259338653032707
+    second: Equip_91
+  - first:
+      213: 5745453827125370993
+    second: Equip_92
+  - first:
+      213: 4623830047541168695
+    second: Equip_93
+  - first:
+      213: -3567077652928167268
+    second: Equip_94
+  - first:
+      213: 902149256251016854
+    second: Equip_95
+  - first:
+      213: 1162128867604071328
+    second: Equip_96
+  - first:
+      213: -7257129156858449487
+    second: Equip_97
+  - first:
+      213: 1125743877733913878
+    second: Equip_98
+  - first:
+      213: -6361913385976411995
+    second: Equip_99
+  - first:
+      213: -2317414633779317210
+    second: Equip_100
+  - first:
+      213: -342703317586411874
+    second: Equip_101
+  - first:
+      213: 2496767351565014292
+    second: Equip_102
+  - first:
+      213: -5607802673218812143
+    second: Equip_103
+  - first:
+      213: -3651163577004734211
+    second: Equip_104
+  - first:
+      213: -2881072066830932113
+    second: Equip_105
+  - first:
+      213: -451537457508435776
+    second: Equip_106
+  - first:
+      213: 1567775760880926994
+    second: Equip_107
+  - first:
+      213: 8340706031999680938
+    second: Equip_108
+  - first:
+      213: 2366650435753353209
+    second: Equip_109
+  - first:
+      213: -7766029689385404883
+    second: Equip_110
+  - first:
+      213: -6106837758980870574
+    second: Equip_111
+  - first:
+      213: 6049822208710084345
+    second: Equip_112
+  - first:
+      213: -7764822653526487220
+    second: Equip_113
+  - first:
+      213: 402048777041354629
+    second: Equip_114
+  - first:
+      213: 3411719802231948842
+    second: Equip_115
+  - first:
+      213: 3224997661890225027
+    second: Equip_116
+  - first:
+      213: 5208299856433322564
+    second: Equip_117
+  - first:
+      213: -7495886519671777458
+    second: Equip_118
+  - first:
+      213: -1956416841126218045
+    second: Equip_119
+  - first:
+      213: -7797487868293335990
+    second: Equip_120
+  - first:
+      213: 4457131727872444380
+    second: Equip_121
+  - first:
+      213: -4634054287831009453
+    second: Equip_122
+  - first:
+      213: 1796399269632894152
+    second: Equip_123
+  - first:
+      213: 8691814017294992203
+    second: Equip_124
+  - first:
+      213: 2375793553833595334
+    second: Equip_125
+  - first:
+      213: -6318488262731821130
+    second: Equip_126
+  - first:
+      213: -4483640140027585848
+    second: Equip_127
+  - first:
+      213: 4121139773390607106
+    second: Equip_128
+  - first:
+      213: 1124494980815683049
+    second: Equip_129
+  - first:
+      213: 2007806382985294059
+    second: Equip_130
+  - first:
+      213: 5515229273776280261
+    second: Equip_131
+  - first:
+      213: -2293515267076954683
+    second: Equip_132
+  - first:
+      213: 3104791256164166877
+    second: Equip_133
+  - first:
+      213: -5785267104211774611
+    second: Equip_134
+  - first:
+      213: -2044395604687357898
+    second: Equip_135
+  - first:
+      213: -5754874013185693528
+    second: Equip_136
+  - first:
+      213: -4905320364313262008
+    second: Equip_137
+  - first:
+      213: 6675168915185181616
+    second: Equip_138
+  - first:
+      213: 2876544179005326648
+    second: Equip_139
+  - first:
+      213: -7582564617711721265
+    second: Equip_140
+  - first:
+      213: -9192902867658029437
+    second: Equip_141
+  - first:
+      213: 2126482604503157416
+    second: Equip_142
+  - first:
+      213: -5876442215802505170
+    second: Equip_143
+  - first:
+      213: -3894128663794320154
+    second: Equip_144
+  - first:
+      213: -4528946350328289903
+    second: Equip_145
+  - first:
+      213: 3406449218398446990
+    second: Equip_146
+  - first:
+      213: 9135029185387634140
+    second: Equip_147
+  - first:
+      213: 8979524906707701574
+    second: Equip_148
+  - first:
+      213: 5235045019986836518
+    second: Equip_149
+  - first:
+      213: -494764600848890502
+    second: Equip_150
+  - first:
+      213: 3787171032725029783
+    second: Equip_151
+  - first:
+      213: -5310975658321106474
+    second: Equip_152
+  - first:
+      213: -1224361084823279559
+    second: Equip_153
+  - first:
+      213: -4859504532375065239
+    second: Equip_154
+  - first:
+      213: 182164849679121366
+    second: Equip_155
+  - first:
+      213: 3088917224502808765
+    second: Equip_156
+  - first:
+      213: 9126472437371896891
+    second: Equip_157
+  - first:
+      213: -5333961943149948644
+    second: Equip_158
+  - first:
+      213: -3820286967218345024
+    second: Equip_159
+  - first:
+      213: 6094181061537320062
+    second: Equip_160
+  - first:
+      213: -6800372894040024736
+    second: Equip_161
+  - first:
+      213: -7012549730757512290
+    second: Equip_162
+  - first:
+      213: 830537538145766998
+    second: Equip_163
+  - first:
+      213: 1716976114237984991
+    second: Equip_164
+  - first:
+      213: 6340331411628441625
+    second: Equip_165
+  - first:
+      213: 7716461514558876780
+    second: Equip_166
+  - first:
+      213: -2865246465520663112
+    second: Equip_167
+  - first:
+      213: 7631848186056592880
+    second: Equip_168
+  - first:
+      213: 3090006980075992017
+    second: Equip_169
+  - first:
+      213: -130590835829408827
+    second: Equip_170
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Equip_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2241
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc0aa84004b70890800000000000000
+      internalID: -7491821541795427111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2242
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d2e6d7226489930800000000000000
+      internalID: 4150144170569116992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2240
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260cb8c04ef61ff20800000000000000
+      internalID: 3454665414423593058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2240
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb08d7f20fb7d270800000000000000
+      internalID: 8275292859785546672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2240
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbfce65ea0506490800000000000000
+      internalID: -7755109848619091009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2175
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1e46f2ada04bfb0800000000000000
+      internalID: -4633066184443108889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2173
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81e8891d0dbfa040800000000000000
+      internalID: 4661152003312378252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2175
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e8e553f5ef80800800000000000000
+      internalID: 578992236987846156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2173
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae9fd0b555e9f120800000000000000
+      internalID: 2448240028655001259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2175
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecadfb719da1a500800000000000000
+      internalID: 405796281802140898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2109
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d05df815406dcf0800000000000000
+      internalID: -227989982783664769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_11
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2108
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3e37a5e467a9970800000000000000
+      internalID: 8762446103899792300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2113
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a25290232e87540800000000000000
+      internalID: 5005999690351979128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2112
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3623043e7845310d0800000000000000
+      internalID: -3453323546653085085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2110
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816ad0d21d62e1c90800000000000000
+      internalID: -7197272474645584360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2045
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4b5b68f742187b0800000000000000
+      internalID: -5223853962633562966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2043
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24fff224b9fc95b0800000000000000
+      internalID: -5360134904401103825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_17
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2043
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4f282c59a30e640800000000000000
+      internalID: 5107146392326042876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2045
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192e4c8af9fe26d80800000000000000
+      internalID: -8258775297633754479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_19
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2046
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1213ae5a5930b4b30800000000000000
+      internalID: 4272512612759646497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1978
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235c6673c3f41f8e0800000000000000
+      internalID: -1661459667476888270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_21
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1978
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9697257d1868a4d0800000000000000
+      internalID: -3123131865852569955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1978
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92afcdc5999a4b6c0800000000000000
+      internalID: -4128488482238825943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_23
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1984
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4af335e68baa0990800000000000000
+      internalID: -7418928840280114610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_24
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1979
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5da8b8882ad44230800000000000000
+      internalID: 3622259867940072796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1918
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c9d6d69a0765720800000000000000
+      internalID: 2834576888463989836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_26
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1916
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec50e6c3b5e97530800000000000000
+      internalID: 3853363516490669284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_27
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1914
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60db1ab18733b2930800000000000000
+      internalID: 4119442875113127174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1913
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc00615cea2fb180800000000000000
+      internalID: -9097505527799214924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_29
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1915
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229d2b2e84573bfb0800000000000000
+      internalID: -4633230635732641502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1850
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a84fbc824433cd0800000000000000
+      internalID: -2579643219541980569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_31
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1849
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcff28822d2b2160800000000000000
+      internalID: 7001739672014552309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_32
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1849
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bfb06881a6253d0800000000000000
+      internalID: -3219394130055791863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_33
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1850
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de93dbc1e5cc51e0800000000000000
+      internalID: -2207672143740428589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1848
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e95235bc4246ba0800000000000000
+      internalID: -6096707539860873613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1784
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d7331a48ed0bf70800000000000000
+      internalID: 9201098699939478873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1784
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab77e15f6ad735540800000000000000
+      internalID: 4995474567714469818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_37
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1784
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2ded1a58b41f850800000000000000
+      internalID: 6408986782043394780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_38
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1784
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6856230f92ba7650800000000000000
+      internalID: 6231489430442891375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1784
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bde003c0d8dd9e00800000000000000
+      internalID: 1053236279010979255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1718
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50561a20a21cfdb0800000000000000
+      internalID: -4756906627299913638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1719
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7ee613a092ffad0800000000000000
+      internalID: -2666367330624280628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_42
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1719
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5d4254e44beab90800000000000000
+      internalID: -7228642103622576658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1720
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4874fb2e798763e00800000000000000
+      internalID: 1024138559012947844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_44
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a71fad97a1811d40800000000000000
+      internalID: 5553362372429551527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1655
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa532f0f4f995210800000000000000
+      internalID: 1322263127515159212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_46
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1655
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc9e703130703cb0800000000000000
+      internalID: -4886282239127675653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_47
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1655
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96210df96318fc160800000000000000
+      internalID: 7047994013467546217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_48
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1655
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188eb6358251cb730800000000000000
+      internalID: 4016108230650095745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_49
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1654
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeb4997921f93680800000000000000
+      internalID: -8774717238518956291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1590
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa310c595f2b2860800000000000000
+      internalID: 7506145264785242872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_51
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1588
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d4dfc4448b17410800000000000000
+      internalID: 1473161156615818652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1589
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457d52f3d58f684c0800000000000000
+      internalID: -4285464916021356716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_53
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1589
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df1b0d25e43b8da0800000000000000
+      internalID: -5941597124477378605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_54
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1589
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab448e31158941c70800000000000000
+      internalID: 8940938634231039162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_55
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1523
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590635e6b0c2d9eb0800000000000000
+      internalID: -4711561207552450411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_56
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1523
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e836d843edd0e8d0800000000000000
+      internalID: -2819009398484616991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_57
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1525
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806aac44ce2636760800000000000000
+      internalID: 7449906975506867720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_58
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1525
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e3e02c8a095ac50800000000000000
+      internalID: 6675901077131247251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_59
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1525
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a27e006470adc650800000000000000
+      internalID: 6254831879175697065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_60
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1462
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b49e2156cfb6930800000000000000
+      internalID: 4137678193709108027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_61
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1461
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3f9fb4ec7598670800000000000000
+      internalID: 8541454711834407855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_62
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1461
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858b94663766030c0800000000000000
+      internalID: -4598062573721896872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_63
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1461
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0946a94dde3c18a0800000000000000
+      internalID: -6333117855845431025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_64
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1461
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c7bf5bc258e60b0800000000000000
+      internalID: -5733498848517850101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_65
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1395
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6661a8e54fd7635d0800000000000000
+      internalID: -3083138406376925594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_66
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1395
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef408beca85e5ee00800000000000000
+      internalID: 1073516470534145278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_67
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1394
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3d92861ccd1d3b0800000000000000
+      internalID: -5489363747553553459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_68
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1394
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f5d74c0f624ae50800000000000000
+      internalID: 6819618551276330861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_69
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1394
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c14142a6b568cfc0800000000000000
+      internalID: -3474415277435698751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_70
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1329
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf1e3fe31c6d8660800000000000000
+      internalID: 7389681396458856392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_71
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1329
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032d080ca243cb5f0800000000000000
+      internalID: -739658880572665296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_72
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1328
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d496e5f3beba87580800000000000000
+      internalID: -8829118042591041203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_73
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1329
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b51a6d503a36600800000000000000
+      internalID: 460390832392985380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_74
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1331
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc80d1a760acfc020800000000000000
+      internalID: 2364330458560137421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_75
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1265
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cf5a8decb7cd1a0800000000000000
+      internalID: -6783410810398573490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_76
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1265
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45678ba2716767c0800000000000000
+      internalID: -4078183792428751538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_77
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1264
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8f4bf4e53f98310800000000000000
+      internalID: 1407923944919726316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_78
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1266
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff73aa7adbfacd090800000000000000
+      internalID: -8008332808274954241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_79
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1264
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d4af3d4c99bc4d0800000000000000
+      internalID: -3113225646747529900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_80
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1201
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e144757f235950e50800000000000000
+      internalID: 6774985260579374110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_81
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1200
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1217c1c3dd6b3da60800000000000000
+      internalID: 7697697249418834209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_82
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1198
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed6561341a307d40800000000000000
+      internalID: 5580023796714532335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_83
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1201
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0a8ff431d9cecd0800000000000000
+      internalID: -2527472584590057269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_84
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1199
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1337c1fd64cbc8290800000000000000
+      internalID: -7886721834855664847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_85
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1134
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bde41c358f0f240800000000000000
+      internalID: 4823628239522945792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_86
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1134
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd48e508c1c57950800000000000000
+      internalID: 6446271506487463416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_87
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1133
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbadf5090196981e0800000000000000
+      internalID: -2195107823503811907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_88
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1133
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b2e0f2c94abbf60800000000000000
+      internalID: 8051209749566204728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_89
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1133
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10574dc3bd07c9a30800000000000000
+      internalID: 4223374637487387905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_90
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1066
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162dfe956d1a0d0e0800000000000000
+      internalID: -2247118272053915039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_91
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1067
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe930de871e97e80800000000000000
+      internalID: -8180259338653032707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_92
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1071
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1706737a0d3fbbf40800000000000000
+      internalID: 5745453827125370993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_93
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1067
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a087d1ee42b2040800000000000000
+      internalID: 4623830047541168695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_94
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1067
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c928bfa16c13f7ec0800000000000000
+      internalID: -3567077652928167268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_95
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1002
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696893108f3158c00800000000000000
+      internalID: 902149256251016854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_96
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1005
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a384c04c06b02010800000000000000
+      internalID: 1162128867604071328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_97
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1001
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b172545b7f794b90800000000000000
+      internalID: -7257129156858449487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_98
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1001
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6159664a7127f9f00800000000000000
+      internalID: 1125743877733913878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_99
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1002
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8c2197b71f5b7a0800000000000000
+      internalID: -6361913385976411995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_100
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 940
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626ba443ba3e6dfd0800000000000000
+      internalID: -2317414633779317210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_101
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 938
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ef9ebf5297e3bf0800000000000000
+      internalID: -342703317586411874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_102
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 938
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41553d48dac46a220800000000000000
+      internalID: 2496767351565014292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_103
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 938
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1178e4c1e251d22b0800000000000000
+      internalID: -5607802673218812143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_104
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 938
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8c9c74216745dc0800000000000000
+      internalID: -3651163577004734211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_105
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 873
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67ed3448306408d0800000000000000
+      internalID: -2881072066830932113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_106
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 873
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c83d622311dbb9f0800000000000000
+      internalID: -451537457508435776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_107
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 873
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21186c28fbbd1c510800000000000000
+      internalID: 1567775760880926994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_108
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 873
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa18c45f1f320c370800000000000000
+      internalID: 8340706031999680938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_109
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 873
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff1a92480808d020800000000000000
+      internalID: 2366650435753353209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_110
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 809
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26bb09c425893490800000000000000
+      internalID: -7766029689385404883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_111
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 809
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ea003e967204ba0800000000000000
+      internalID: -6106837758980870574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_112
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 809
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f60f68de3945f350800000000000000
+      internalID: 6049822208710084345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_113
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 809
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fc5a8bfeecd3490800000000000000
+      internalID: -7764822653526487220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_114
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 809
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f1ee98b3d549500800000000000000
+      internalID: 402048777041354629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_115
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 743
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a268335851dd85f20800000000000000
+      internalID: 3411719802231948842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_116
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 743
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383ae66694e71cc20800000000000000
+      internalID: 3224997661890225027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_117
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 743
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a1d6aef19974840800000000000000
+      internalID: 5208299856433322564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_118
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 745
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47135edce249f790800000000000000
+      internalID: -7495886519671777458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_119
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 745
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c67410af3969d4e0800000000000000
+      internalID: -1956416841126218045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_120
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 680
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4435fdb812c9c390800000000000000
+      internalID: -7797487868293335990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_121
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 679
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7c5fc01b9eadd30800000000000000
+      internalID: 4457131727872444380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_122
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 679
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357f4ff6d2880bfb0800000000000000
+      internalID: -4634054287831009453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_123
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 681
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c46d353e971ee810800000000000000
+      internalID: 1796399269632894152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_124
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 681
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4301aa2cc68f9870800000000000000
+      internalID: 8691814017294992203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_125
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 614
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c11ae356a388f020800000000000000
+      internalID: 2375793553833595334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_126
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 614
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf056ed6683058a0800000000000000
+      internalID: -6318488262731821130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_127
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 614
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca19f84c09e6c1c0800000000000000
+      internalID: -4483640140027585848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_128
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 614
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2035ea60aca313930800000000000000
+      internalID: 4121139773390607106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_129
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 614
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed7a3b2a320b9f00800000000000000
+      internalID: 1124494980815683049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_130
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 549
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0b99b74492ddb10800000000000000
+      internalID: 2007806382985294059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_131
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 549
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c25546bdc70a8c40800000000000000
+      internalID: 5515229273776280261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_132
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 550
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c561f2240ccb20e0800000000000000
+      internalID: -2293515267076954683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_133
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 548
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc6765923f661b20800000000000000
+      internalID: 3104791256164166877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_134
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 553
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6354ba683a96bfa0800000000000000
+      internalID: -5785267104211774611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_135
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 486
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6387d3a7709d0a3e0800000000000000
+      internalID: -2044395604687357898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_136
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 486
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8a0fc53949220b0800000000000000
+      internalID: -5754874013185693528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_137
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 486
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8484e9f3e1dccebb0800000000000000
+      internalID: -4905320364313262008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_138
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 485
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3a75503c6f2ac50800000000000000
+      internalID: 6675168915185181616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_139
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 484
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8358452b0b98be720800000000000000
+      internalID: 2876544179005326648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_140
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 419
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4e8d287a155c690800000000000000
+      internalID: -7582564617711721265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_141
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 419
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386c2964c8f3c6080800000000000000
+      internalID: -9192902867658029437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_142
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 418
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa457689a8c28d10800000000000000
+      internalID: 2126482604503157416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_143
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 418
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e287bff70fea27ea0800000000000000
+      internalID: -5876442215802505170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_144
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 418
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec7fdcbc9645f9c0800000000000000
+      internalID: -3894128663794320154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_145
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 353
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19561ed2a43f521c0800000000000000
+      internalID: -4528946350328289903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_146
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 353
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85eb081483264f20800000000000000
+      internalID: 3406449218398446990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_147
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 353
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd1bd705a426ce70800000000000000
+      internalID: 9135029185387634140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_148
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 353
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fc51cb35ead9c70800000000000000
+      internalID: 8979524906707701574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_149
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 353
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c3e7f85bd96a840800000000000000
+      internalID: 5235045019986836518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_150
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 289
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75c6f6873e3229f0800000000000000
+      internalID: -494764600848890502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_151
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 289
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793893d2dfbbe8430800000000000000
+      internalID: 3787171032725029783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_152
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 289
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9260b07cf9b46b0800000000000000
+      internalID: -5310975658321106474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_153
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 289
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938eb4e8412320fe0800000000000000
+      internalID: -1224361084823279559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_154
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 289
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d2263ef529f8cb0800000000000000
+      internalID: -4859504532375065239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_155
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 226
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbbfa337fd278200800000000000000
+      internalID: 182164849679121366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_156
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 225
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0531399d90eda20800000000000000
+      internalID: 3088917224502808765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_157
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 224
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3402f1e35eb7ae70800000000000000
+      internalID: 9126472437371896891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_158
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 227
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11581d8fd5f9f5b0800000000000000
+      internalID: -5333961943149948644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_159
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 225
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb65ea7e3d9bfac0800000000000000
+      internalID: -3820286967218345024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_160
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 162
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c48d91361e29450800000000000000
+      internalID: 6094181061537320062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_161
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 159
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0699c8ef1e830a1a0800000000000000
+      internalID: -6800372894040024736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_162
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 161
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93ff688c2b6eae90800000000000000
+      internalID: -7012549730757512290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_163
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 159
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e4ec59d79a68b00800000000000000
+      internalID: 830537538145766998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_164
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 162
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd05cf0ddace3d710800000000000000
+      internalID: 1716976114237984991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_165
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 99
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9104d5c83d16df750800000000000000
+      internalID: 6340331411628441625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_166
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 98
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c214a2dd0661b60800000000000000
+      internalID: 7716461514558876780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_167
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 97
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b582b435899c38d0800000000000000
+      internalID: -2865246465520663112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_168
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 98
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdcc9d6d75c9e960800000000000000
+      internalID: 7631848186056592880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_169
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 98
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d338e01af8e1ea20800000000000000
+      internalID: 3090006980075992017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip_170
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb7773a35c003ef0800000000000000
+      internalID: -130590835829408827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6cd130b81e8f0d6469307fba69d3e233
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

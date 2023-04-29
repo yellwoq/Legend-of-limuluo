@@ -1,0 +1,53 @@
+﻿#全局
+Legend of limuluo=梨木洛传说
+Press the return key again to exit the game=再次按下返回键退出游戏
+Setting=设置
+#弹出框
+ok=确定
+# 用户系统UI
+#登陆面板
+Username=用户名:
+Password=密码:
+Login=登录
+Register=注册
+Remember me=记住密码
+InputUN=请输入用户名...
+InputPW=请输入密码...
+#注册面板
+FirstPassword=第一次输入密码:
+SecondPassword=再次确认密码:
+Return=返回
+#设置面板
+SoundSetting=声音设置
+bgm=背景音效
+sfx=游戏音效
+LanguageSetting=语言设置
+LanguageSelect=语言选择:
+Change=更改
+ExitGame=退出游戏
+#操作设置面板
+Apply=应用
+#操作说明面板
+Instruction=操作说明
+#主界面
+Welcome=欢迎你：
+Hero name=英雄名：
+Hero type=英雄类型：
+Hero level=英雄等级：
+CONTINUE GAME=继续游戏
+START GAME=开始游戏
+User settings=用户设置
+Delete=删除
+Read progress=读取进度
+New progress=新建进度
+Create=新建
+Cancel=取消
+Log out=退出登录
+Change name=更改名称
+Change password=更改密码
+Please enter the name to modify=请输入要修改的名称...
+Please enter the password you want to change=请输入要修改的密码...
+Enter the name of the hero you want=输入你想要的英雄名...
+Please enter the hero's name=请输入英雄名：
+Please select hero type=请选择英雄类型：
+Create Hero=创建英雄

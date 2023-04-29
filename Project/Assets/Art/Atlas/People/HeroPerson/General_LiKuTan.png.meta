@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 2d47eb2a36c80c544bc6c68203487f5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3040055628837990889
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u91CD\u697C_\u7231\u7ED9\u7F51_aigei_com_0"
+  - first:
+      213: -1868135027981726294
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u91CD\u697C_\u7231\u7ED9\u7F51_aigei_com_1"
+  - first:
+      213: 6849049634224727312
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u91CD\u697C_\u7231\u7ED9\u7F51_aigei_com_2"
+  - first:
+      213: 7898633837547358562
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u91CD\u697C_\u7231\u7ED9\u7F51_aigei_com_3"
+  - first:
+      213: 4490456660612817747
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u91CD\u697C_\u7231\u7ED9\u7F51_aigei_com_4"
+  - first:
+      213: 9176092756627335706
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u91CD\u697C_\u7231\u7ED9\u7F51_aigei_com_5"
+  - first:
+      213: -5049956637846946818
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u91CD\u697C_\u7231\u7ED9\u7F51_aigei_com_6"
+  - first:
+      213: -5178296729116562043
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u91CD\u697C_\u7231\u7ED9\u7F51_aigei_com_7"
+  - first:
+      213: 3288923425721419818
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u91CD\u697C_\u7231\u7ED9\u7F51_aigei_com_8"
+  - first:
+      213: 8166948867779866106
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u91CD\u697C_\u7231\u7ED9\u7F51_aigei_com_9"
+  - first:
+      213: 5376265362488370671
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u91CD\u697C_\u7231\u7ED9\u7F51_aigei_com_10"
+  - first:
+      213: 5306805869897393257
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u91CD\u697C_\u7231\u7ED9\u7F51_aigei_com_11"
+  - first:
+      213: -6545250759850665153
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u91CD\u697C_\u7231\u7ED9\u7F51_aigei_com_12"
+  - first:
+      213: 7246825547590844960
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u91CD\u697C_\u7231\u7ED9\u7F51_aigei_com_13"
+  - first:
+      213: -7793036360908322881
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u91CD\u697C_\u7231\u7ED9\u7F51_aigei_com_14"
+  - first:
+      213: -8138624067233724867
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u91CD\u697C_\u7231\u7ED9\u7F51_aigei_com_15"
+  - first:
+      213: 4368929545516364609
+    second: General_LiKuTan_0
+  - first:
+      213: 6909389774818796319
+    second: General_LiKuTan_1
+  - first:
+      213: -6007927819304538878
+    second: General_LiKuTan_2
+  - first:
+      213: -5348148054399095266
+    second: General_LiKuTan_3
+  - first:
+      213: -8114019456270262722
+    second: General_LiKuTan_4
+  - first:
+      213: -5120504829773819876
+    second: General_LiKuTan_5
+  - first:
+      213: -6604553459644559928
+    second: General_LiKuTan_6
+  - first:
+      213: -7555780624268696664
+    second: General_LiKuTan_7
+  - first:
+      213: 3062965872538706818
+    second: General_LiKuTan_8
+  - first:
+      213: 938241724021028173
+    second: General_LiKuTan_9
+  - first:
+      213: -4079417371601563292
+    second: General_LiKuTan_10
+  - first:
+      213: 8240194066395997891
+    second: General_LiKuTan_11
+  - first:
+      213: 3935179695706110507
+    second: General_LiKuTan_12
+  - first:
+      213: 271315238256988906
+    second: General_LiKuTan_13
+  - first:
+      213: -8914785235213256094
+    second: General_LiKuTan_14
+  - first:
+      213: -720883861289471983
+    second: General_LiKuTan_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: General_LiKuTan_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 146
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1433639264e81ac30800000000000000
+      internalID: 4368929545516364609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_LiKuTan_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 146
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f136ac6846513ef50800000000000000
+      internalID: 6909389774818796319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_LiKuTan_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 146
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d6a2eca7d8f9ca0800000000000000
+      internalID: -6007927819304538878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_LiKuTan_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 146
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e68532eaf87c5b0800000000000000
+      internalID: -5348148054399095266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_LiKuTan_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 98
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e17606b46356f80800000000000000
+      internalID: -8114019456270262722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_LiKuTan_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 98
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10d8a6acff40f8b0800000000000000
+      internalID: -5120504829773819876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_LiKuTan_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 98
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd0fc1fe99e754a0800000000000000
+      internalID: -6604553459644559928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_LiKuTan_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 98
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a36fa1fd89742790800000000000000
+      internalID: -7555780624268696664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_LiKuTan_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28360d79b37d18a20800000000000000
+      internalID: 3062965872538706818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_LiKuTan_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 50
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4539b180ed450d00800000000000000
+      internalID: 938241724021028173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_LiKuTan_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 50
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4619123a38ff267c0800000000000000
+      internalID: -4079417371601563292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_LiKuTan_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 50
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6a0df48dc0b5270800000000000000
+      internalID: 8240194066395997891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_LiKuTan_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a74e175119c9630800000000000000
+      internalID: 3935179695706110507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_LiKuTan_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2557e85c7e3c300800000000000000
+      internalID: 271315238256988906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_LiKuTan_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a7736af02584480800000000000000
+      internalID: -8914785235213256094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_LiKuTan_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110778392f7eef5f0800000000000000
+      internalID: -720883861289471983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3d6fe67d344edb64ea2323f5b49a57cd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

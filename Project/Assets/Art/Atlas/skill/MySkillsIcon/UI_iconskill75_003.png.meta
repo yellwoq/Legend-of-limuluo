@@ -1,0 +1,1006 @@
+fileFormatVersion: 2
+guid: e493cdffbbb3a2340b62a4178eaa6f26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6024190714693955757
+    second: UI_iconskill75_003_0
+  - first:
+      213: -5940196738163569983
+    second: UI_iconskill75_003_1
+  - first:
+      213: 1949606221495325641
+    second: UI_iconskill75_003_2
+  - first:
+      213: 5987244863005267579
+    second: UI_iconskill75_003_3
+  - first:
+      213: 6142016995698579178
+    second: Wizard1
+  - first:
+      213: 1737232199841634854
+    second: UI_iconskill75_003_5
+  - first:
+      213: -1294654981997879778
+    second: Wizard2
+  - first:
+      213: -7178031393814242473
+    second: UI_iconskill75_003_7
+  - first:
+      213: -6900984010389891708
+    second: Wizard3
+  - first:
+      213: -6346787189928353410
+    second: UI_iconskill75_003_9
+  - first:
+      213: -3052839251114000812
+    second: UI_iconskill75_003_10
+  - first:
+      213: 5580161189047692547
+    second: UI_iconskill75_003_11
+  - first:
+      213: -9210211066299300528
+    second: UI_iconskill75_003_12
+  - first:
+      213: -3446533217562566810
+    second: UI_iconskill75_003_13
+  - first:
+      213: -2077534403455358905
+    second: UI_iconskill75_003_14
+  - first:
+      213: 6505473383403667052
+    second: UI_iconskill75_003_15
+  - first:
+      213: 2384283191375274838
+    second: UI_iconskill75_003_16
+  - first:
+      213: 4064038566706332202
+    second: UI_iconskill75_003_17
+  - first:
+      213: -8885851504569284063
+    second: UI_iconskill75_003_18
+  - first:
+      213: 6082822967331170071
+    second: UI_iconskill75_003_19
+  - first:
+      213: -8604727198600189874
+    second: UI_iconskill75_003_20
+  - first:
+      213: -332176563411113081
+    second: Wizard4
+  - first:
+      213: 2038072145951138497
+    second: UI_iconskill75_003_22
+  - first:
+      213: 3524279383376534960
+    second: UI_iconskill75_003_23
+  - first:
+      213: 4392562467349698272
+    second: UI_iconskill75_003_24
+  - first:
+      213: 5013970023800189693
+    second: UI_iconskill75_003_25
+  - first:
+      213: 1923409153483992746
+    second: UI_iconskill75_003_26
+  - first:
+      213: -1840914746511940762
+    second: UI_iconskill75_003_27
+  - first:
+      213: 4612950493765791027
+    second: UI_iconskill75_003_28
+  - first:
+      213: -1248689486632456943
+    second: UI_iconskill75_003_29
+  - first:
+      213: 8079898602223937831
+    second: UI_iconskill75_003_30
+  - first:
+      213: 2871834317176467231
+    second: UI_iconskill75_003_31
+  - first:
+      213: 6288320186570765545
+    second: UI_iconskill75_003_32
+  - first:
+      213: 537824239992226911
+    second: UI_iconskill75_003_33
+  - first:
+      213: -1303048976869008264
+    second: UI_iconskill75_003_34
+  - first:
+      213: 4841080477515839640
+    second: UI_iconskill75_003_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 1
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_iconskill75_003_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 435
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da03a8899893a9350800000000000000
+      internalID: 6024190714693955757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 435
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca83d50a8e209da0800000000000000
+      internalID: -5940196738163569983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 435
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3de1c67846e0b10800000000000000
+      internalID: 1949606221495325641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 435
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7616ba2b77f61350800000000000000
+      internalID: 5987244863005267579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 435
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae696017ae3dc3550800000000000000
+      internalID: 6142016995698579178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_5
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 435
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a5ee34b73eb1810800000000000000
+      internalID: 1737232199841634854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 357
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e935b3726780ee0800000000000000
+      internalID: -1294654981997879778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 357
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b99196a72826c90800000000000000
+      internalID: -7178031393814242473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 357
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4855f040b97ca30a0800000000000000
+      internalID: -6900984010389891708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_9
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 357
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71225f6daeabe7a0800000000000000
+      internalID: -6346787189928353410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_10
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 357
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45efaf030e222a5d0800000000000000
+      internalID: -3052839251114000812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 357
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30deb965907b07d40800000000000000
+      internalID: 5580161189047692547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 279
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055cbde35d1ce2080800000000000000
+      internalID: -9210211066299300528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 279
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f59949c447b20d0800000000000000
+      internalID: -3446533217562566810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 279
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748e361a77d1b23e0800000000000000
+      internalID: -2077534403455358905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_15
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 279
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eb8812395184a50800000000000000
+      internalID: 6505473383403667052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_16
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 279
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653abd91eeca61120800000000000000
+      internalID: 2384283191375274838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_17
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 279
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22c4025b8d566830800000000000000
+      internalID: 4064038566706332202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 201
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a0747c22d1fa480800000000000000
+      internalID: -8885851504569284063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 201
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717ac57b2478a6450800000000000000
+      internalID: 6082822967331170071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_20
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 201
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e482b42e33ed59880800000000000000
+      internalID: -8604727198600189874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 201
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bab2fec2fd36bf0800000000000000
+      internalID: -332176563411113081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_22
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 201
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2290e81dfa84c10800000000000000
+      internalID: 2038072145951138497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_23
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 201
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd146f3d61c8e030800000000000000
+      internalID: 3524279383376534960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 123
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e697109a4485fc30800000000000000
+      internalID: 4392562467349698272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 123
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df23117eb23359540800000000000000
+      internalID: 5013970023800189693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_26
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 123
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaee5273f6251ba10800000000000000
+      internalID: 1923409153483992746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_27
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 123
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663a068aac1c376e0800000000000000
+      internalID: -1840914746511940762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_28
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 123
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d6f5b980e740040800000000000000
+      internalID: 4612950493765791027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_29
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 123
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11de18a1783cbaee0800000000000000
+      internalID: -1248689486632456943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 45
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729abb638f0912070800000000000000
+      internalID: 8079898602223937831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 45
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f6419881ecad720800000000000000
+      internalID: 2871834317176467231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 45
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4f77a84e9944750800000000000000
+      internalID: 6288320186570765545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_33
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 45
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54c458fb4cb67700800000000000000
+      internalID: 537824239992226911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_34
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 45
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c59c00cd3aaede0800000000000000
+      internalID: -1303048976869008264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_003_35
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 45
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898f86f8b09fe2340800000000000000
+      internalID: 4841080477515839640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: be1c6b81e5bdc03418c0cbbf3ae4a5de
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

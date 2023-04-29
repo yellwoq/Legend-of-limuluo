@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cc4eede02c939848a82dbebb3b1830b, type: 3}
+  m_Name: WizardSkill1
+  m_EditorClassIdentifier: 
+  skillID: Wizard1
+  skillName: "\u7206\u88C2\u706B\u7403"
+  level: 1
+  maxlevel: 5
+  coolingtime: 5
+  isCoding: 0
+  initMpCons: 5
+  heroType: 1
+  skillEffect: {fileID: 8938014206857762971, guid: c824756477462944dbb26ecb4ab1a7e0,
+    type: 3}
+  skillIcon: {fileID: 21300000, guid: 3ef882948b012b34e9948810ca7f4a63, type: 3}
+  description: "\u6295\u63B7\u5DE8\u5927\u7684\u706B\u7403\uFF0C\u5BF9\u76EE\u6807\u548C\u5468\u56F4\u7684\u654C\u4EBA\u9020\u621025+\uFF085*\u7B49\u7EA7\uFF09\u7684\u4F24\u5BB3"
+  attackRange: 3
+  initdamage: 25
+  targetMask:
+    serializedVersion: 2
+    m_Bits: 2048
+  damageDelay: 1
+  collectDelay: 2
+  growthDamage: 5
+  mpConsGrowth: 5
+  startOffset:
+  - releaseDir: 0
+    posOffset: {x: -0.2, y: 0, z: 0}
+    rotateOffset: {x: 0, y: 0, z: 0}
+  - releaseDir: 1
+    posOffset: {x: 0.2, y: 0, z: 0}
+    rotateOffset: {x: 0, y: 0, z: 0}
+  - releaseDir: 2
+    posOffset: {x: 0, y: 0.2, z: 0}
+    rotateOffset: {x: 0, y: 0, z: 0}
+  - releaseDir: 1
+    posOffset: {x: 0, y: -0.2, z: 0}
+    rotateOffset: {x: 0, y: 0, z: 0}
+  skillattackMode: 4
+  attackAngle: 0
+  distance: 2
+  damagetime: 0
+  gainType: 0

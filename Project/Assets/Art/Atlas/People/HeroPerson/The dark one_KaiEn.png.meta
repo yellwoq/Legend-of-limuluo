@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 13e92352132a26f47ab7593091ffb0cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6241065059703060896
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u53F2\u66022_\u7231\u7ED9\u7F51_aigei_com_0"
+  - first:
+      213: -1965207277588386638
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u53F2\u66022_\u7231\u7ED9\u7F51_aigei_com_1"
+  - first:
+      213: 8103143417119718059
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u53F2\u66022_\u7231\u7ED9\u7F51_aigei_com_2"
+  - first:
+      213: 8151746631357466402
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u53F2\u66022_\u7231\u7ED9\u7F51_aigei_com_3"
+  - first:
+      213: -6246032755413512701
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u53F2\u66022_\u7231\u7ED9\u7F51_aigei_com_4"
+  - first:
+      213: 6068732993250655703
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u53F2\u66022_\u7231\u7ED9\u7F51_aigei_com_5"
+  - first:
+      213: 4406574168483065269
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u53F2\u66022_\u7231\u7ED9\u7F51_aigei_com_6"
+  - first:
+      213: 2864763476692782319
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u53F2\u66022_\u7231\u7ED9\u7F51_aigei_com_7"
+  - first:
+      213: -7862204551843520227
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u53F2\u66022_\u7231\u7ED9\u7F51_aigei_com_8"
+  - first:
+      213: 296410042421398117
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u53F2\u66022_\u7231\u7ED9\u7F51_aigei_com_9"
+  - first:
+      213: -4290527243373942624
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u53F2\u66022_\u7231\u7ED9\u7F51_aigei_com_10"
+  - first:
+      213: -5193174557069204641
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u53F2\u66022_\u7231\u7ED9\u7F51_aigei_com_11"
+  - first:
+      213: -1065831846691347284
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u53F2\u66022_\u7231\u7ED9\u7F51_aigei_com_12"
+  - first:
+      213: -2606692366693059360
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u53F2\u66022_\u7231\u7ED9\u7F51_aigei_com_13"
+  - first:
+      213: -2519717608895710285
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u53F2\u66022_\u7231\u7ED9\u7F51_aigei_com_14"
+  - first:
+      213: -5801598282425848726
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u53F2\u66022_\u7231\u7ED9\u7F51_aigei_com_15"
+  - first:
+      213: 2221062923106728682
+    second: The dark one_KaiEn_0
+  - first:
+      213: 95190309166912009
+    second: The dark one_KaiEn_1
+  - first:
+      213: 4621359750739502731
+    second: The dark one_KaiEn_2
+  - first:
+      213: 6407093748231356939
+    second: The dark one_KaiEn_3
+  - first:
+      213: 3039701983911854848
+    second: The dark one_KaiEn_4
+  - first:
+      213: -1632871652748121881
+    second: The dark one_KaiEn_5
+  - first:
+      213: 6555179178032026336
+    second: The dark one_KaiEn_6
+  - first:
+      213: 1924697051044611902
+    second: The dark one_KaiEn_7
+  - first:
+      213: 3790944842672127999
+    second: The dark one_KaiEn_8
+  - first:
+      213: -3792250301344999270
+    second: The dark one_KaiEn_9
+  - first:
+      213: 7777313077399738630
+    second: The dark one_KaiEn_10
+  - first:
+      213: 634681276019338193
+    second: The dark one_KaiEn_11
+  - first:
+      213: -5087102251450278452
+    second: The dark one_KaiEn_12
+  - first:
+      213: 6688827560314866946
+    second: The dark one_KaiEn_13
+  - first:
+      213: 4940051001574214415
+    second: The dark one_KaiEn_14
+  - first:
+      213: -456359563789172135
+    second: The dark one_KaiEn_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The dark one_KaiEn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea319bf5fcc2de10800000000000000
+      internalID: 2221062923106728682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The dark one_KaiEn_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90214f3f41f225100800000000000000
+      internalID: 95190309166912009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The dark one_KaiEn_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86ad12553e522040800000000000000
+      internalID: 4621359750739502731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The dark one_KaiEn_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02c4f951d19ae850800000000000000
+      internalID: 6407093748231356939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The dark one_KaiEn_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003cd1e69d03f2a20800000000000000
+      internalID: 3039701983911854848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The dark one_KaiEn_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8a42612efd659e0800000000000000
+      internalID: -1632871652748121881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The dark one_KaiEn_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2d2a94bbca8fa50800000000000000
+      internalID: 6555179178032026336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The dark one_KaiEn_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3781cb35c5e5ba10800000000000000
+      internalID: 1924697051044611902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The dark one_KaiEn_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff3296cf342c9430800000000000000
+      internalID: 3790944842672127999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The dark one_KaiEn_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9896f071783f5bc0800000000000000
+      internalID: -3792250301344999270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The dark one_KaiEn_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6095965b9019eeb60800000000000000
+      internalID: 7777313077399738630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The dark one_KaiEn_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db69b20247dec800800000000000000
+      internalID: 634681276019338193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The dark one_KaiEn_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd5736747bf669b0800000000000000
+      internalID: -5087102251450278452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The dark one_KaiEn_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d09682a3d73dc50800000000000000
+      internalID: 6688827560314866946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The dark one_KaiEn_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bc42166369e8440800000000000000
+      internalID: 4940051001574214415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The dark one_KaiEn_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9528e76056faaa9f0800000000000000
+      internalID: -456359563789172135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ec57939e6da9d7649a0b7be295859919
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

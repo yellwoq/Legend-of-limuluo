@@ -1,0 +1,30 @@
+<b><size=35><color=yellow>About registration / login</color></size></b>
+<line-indent=5%>After entering the game, the login interface and registration interface will pop up. If the player enters the game for the first time, he / she needs to register his / her account in the registration interface. After successful registration, he / she can log in to the login interface to enter the game. When logging in, the player can select the remember password switch at the bottom of the input box and log in directly next time.</line-indent>
+<b><size=35><color=purple>About the main interface</color></size></b>
+<line-indent=5%>After successful login, players can choose their own progress or change, or modify their personal information. After clicking to continue the game or start the game, all the progress bars stored by the players will be displayed. Players can select any progress bar to load, and prompt information will be given at the top left. For example, if the player starts the progress bar in the game, if the player clicks the existing progress bar, It will cover the player's previous progress and automatically enter the interface of creating heroes. Players can create their own heroes in this interface. Players can choose two positions: Warrior or mage. Different positions correspond to different attributes.</line-indent>
+<b><size=35><color=blue>About the game interface</color></size></b>
+<line-indent=5%>After entering the game interface, players need to complete the specified task before they can proceed to the next task. Players may drop corresponding rewards when they kill the monster and boss. They can get relevant task information by talking with NPC, and they can get rewards when they finish the task. Players can view the small map, player hero information, backpack information, task information, skill information and system information in the game.</line-indent>
+<b><size=35><color=orange>About game operation</color></size></b>
+<b><size=32><color=purple>Windows or Mac platform</color></size></b>
+<space=1em><size=30><voffset=0.35em><sprite name="W" ></voffset></size>(W) or<space=1em><size=30><voffset=0.25em><sprite name="UpArrow"></voffset></size>(up key) or mouse drag the screen rocker up - > player moves up
+<space=1em><size=30><voffset=0.35em><sprite name="A" ></voffset></size>(A) or<space=1em><size=30><voffset=0.25em><sprite name="LeftArrow"></voffset></size>(left direction key) or mouse drag the screen rocker to the left - > players move to the left
+<space=1em><size=30><voffset=0.35em><sprite name="S" ></voffset></size>(S) or<space=1em><size=30><voffset=0.25em><sprite name="DownArrow"></voffset></size>(down direction key) or mouse drag the screen rocker down - > player moves down
+<space=1em><size=30><voffset=0.35em><sprite name="D" ></voffset></size>(D) or<space=1em><size=30><voffset=0.25em><sprite name="RightArrow"></voffset></size>(right arrow key) or mouse drag the screen rocker to the right - > the player moves to the right
+<space=1em><size=30><voffset=0.35em><sprite name="Space" ></voffset></size>(Blank) or click the first button in the bottom right corner of the screen -- > player general attack
+<space=1em><size=30><voffset=0.35em><sprite name="J" ></voffset></size>(J) Or click the top button at the bottom right corner of the screen - > a skill
+<space=1em><size=30><voffset=0.35em><sprite name="K" ></voffset></size>(K) Or click the middle button in the lower right corner of the screen - > two skills
+<space=1em><size=30><voffset=0.35em><sprite name="L" ></voffset></size>(L) Or click the leftmost button in the lower right corner of the screen - > three skills
+<b><size=32><color=red>Andiron platform</color></size></b>
+Drag the screen rocker up - > players move up
+Drag the screen rocker to the left - > players move to the left
+Drag the screen rocker down - > players move down
+Drag the screen rocker to the right - > the player moves to the right
+Click the first button in the bottom right corner of the screen - > player general attack
+Click the top button at the bottom right corner of the screen -> first skill
+Click the middle button in the lower right corner of the screen -- - > second skill
+Click the leftmost button in the lower right corner of the screen -- - > third skill
+<b><size=35><color=green>About the author</color></size></b>
+A handsome guy who loves game development<space=1em><size=40><voffset=0.35em><sprite="EmojiOne" index=24></voffset></size>,Attention:
+<b><size=32>QQ：1551935747</size></b>
+<b><size=32>Wechat: ages18243392575</size></b>
+Station B Personal space:<u><size=32><color=blue><link="mySpace">https://space.bilibili.com/259513685</link></color></size></u>

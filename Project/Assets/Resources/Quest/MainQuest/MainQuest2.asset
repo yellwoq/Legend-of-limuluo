@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7184531a236bcb746b1fb026e5ac9bbc, type: 3}
+  m_Name: MainQuest2
+  m_EditorClassIdentifier: 
+  defaultSprite: {fileID: 21300000, guid: a60bf055f21fff64d91c5557305f7a97, type: 3}
+  ID: MQ00002
+  isFirstAcceted: 1
+  title: "\u53BB\u90FD\u57CE\u51C6\u5907\u4E00\u4E9B\u4E1C\u897F"
+  description: "\u4ECA\u5929\u662F\u4F60\u7684\u751F\u65E5\uFF0C\u53BB\u90FD\u57CE\u4E70\u4E00\u4E9B\u4E1C\u897F\u5427"
+  abandonable: 0
+  acceptConditions:
+  - conditionType: 5
+    level: 1
+    IDOfCompleteQuest: 
+    completeQuest: {fileID: 11400000, guid: 7074242c873cc724aafb40cc5fa6c575, type: 2}
+    IDOfOwnedItem: 
+    OwnedItemNum: 0
+    IDofStoryAgent: 
+  beginDialogue: {fileID: 0}
+  ongoingDialogue: {fileID: 11400000, guid: edaf77ab59529864fb0678ad311f36ba, type: 2}
+  completeDialogue: {fileID: 11400000, guid: dcb0e629c4e6ff1429f3d82dccd8ae51, type: 2}
+  questReward:
+    money: 30
+    exp: 25
+    Itemrewards: []
+  cmpltOnOriginalNPC: 1
+  IDOfNPCToComplete: NPC000
+  cmpltObjectiveInOrder: 1
+  collectObjectives:
+  - runtimeID: 
+    displayName: "\u4E70\u4E24\u74F6\u751F\u547D\u836F\u6C34"
+    amount: 2
+    inOrder: 1
+    orderIndex: 1
+    itemID: 1
+    checkBagAtAccept: 0
+    loseItemAtSubmit: 0
+  killObjectives: []
+  talkObjectives:
+  - runtimeID: 
+    displayName: "\u5B8C\u6210\u540E\u4E0E\u56FD\u738B\u5BF9\u8BDD"
+    amount: 1
+    inOrder: 1
+    orderIndex: 2
+    talkerID: NPC001
+    dialogue: {fileID: 11400000, guid: dcb0e629c4e6ff1429f3d82dccd8ae51, type: 2}
+  moveObjectives: []
+  MOriginQuestGiver: {fileID: 0}
+  MCurrentQuestGiver: {fileID: 0}
+  IsOngoing: 0

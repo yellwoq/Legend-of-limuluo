@@ -1,0 +1,22 @@
+[Idle]
+NoHealth>Dead
+SawTarget>Pursuit
+CompleteWait>Patrolling
+
+[Dead]
+
+[Pursuit]
+NoHealth>Dead
+ReachTarget>Attacking
+LoseTarget>Patrolling
+
+[Attacking]
+NoHealth>Dead
+WithoutAttackRange>Pursuit
+KilledTarget>Patrolling
+
+[Patrolling]
+NoHealth> Dead
+SawTarget>Pursuit
+CompletePatrol>Idle
+

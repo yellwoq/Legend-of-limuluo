@@ -1,0 +1,622 @@
+fileFormatVersion: 2
+guid: 6f92a916852289146abd27f734a7d733
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8091660165652063053
+    second: MajoyBoy_0
+  - first:
+      213: 2528218344295720294
+    second: MajoyBoy_1
+  - first:
+      213: 8636912656989094289
+    second: MajoyBoy_2
+  - first:
+      213: 5289987759860253839
+    second: MajoyBoy_3
+  - first:
+      213: -327745275121673863
+    second: MajoyBoy_4
+  - first:
+      213: -6690868129158700156
+    second: MajoyBoy_5
+  - first:
+      213: -8084449210253844891
+    second: MajoyBoy_6
+  - first:
+      213: 8849359183296360946
+    second: MajoyBoy_7
+  - first:
+      213: 5832557546995396242
+    second: MajoyBoy_8
+  - first:
+      213: 7708320923065293221
+    second: MajoyBoy_9
+  - first:
+      213: -9020258574207420905
+    second: MajoyBoy_10
+  - first:
+      213: -8351541667887337385
+    second: MajoyBoy_11
+  - first:
+      213: 228362400238406051
+    second: MajoyBoy_12
+  - first:
+      213: 2867711082468906496
+    second: MajoyBoy_13
+  - first:
+      213: 1720140800659673075
+    second: MajoyBoy_14
+  - first:
+      213: -7327110796154843582
+    second: MajoyBoy_15
+  - first:
+      213: -5589568701368174915
+    second: LiMuLuo_ideldown
+  - first:
+      213: 6051429754689979270
+    second: LiMuLuo_walkdown
+  - first:
+      213: 1199642846700125336
+    second: LiMuLuo_ideldown2
+  - first:
+      213: 5866592180887885006
+    second: LiMuLuo_3
+  - first:
+      213: 7697118664521771113
+    second: LiMuLuo_idelleft
+  - first:
+      213: -4349722978258796346
+    second: LiMuLuo_walkleft
+  - first:
+      213: 6760840207161730219
+    second: LiMuLuo_6
+  - first:
+      213: 715272699247778718
+    second: LiMuLuo_7
+  - first:
+      213: 2926783156987687061
+    second: LiMuLuo_8
+  - first:
+      213: -6535786413613974988
+    second: LiMuLuo_9
+  - first:
+      213: -3346701799977228813
+    second: LiMuLuo_10
+  - first:
+      213: -8833493500043005720
+    second: LiMuLuo_11
+  - first:
+      213: -9110414782630016833
+    second: LiMuLuo_12
+  - first:
+      213: 4400289301020177623
+    second: LiMuLuo_13
+  - first:
+      213: -6789789000596734633
+    second: LiMuLuo_14
+  - first:
+      213: 5634655993089484467
+    second: LiMuLuo_15
+  - first:
+      213: -9091810075073685874
+    second: LiMuLuo_0
+  - first:
+      213: -408904219025031681
+    second: LiMuLuo_1
+  - first:
+      213: 8079978963878248065
+    second: LiMuLuo_2
+  - first:
+      213: -1222022153623859050
+    second: LiMuLuo_3
+  - first:
+      213: -7106562480384992892
+    second: LiMuLuo_4
+  - first:
+      213: 4839441354551227045
+    second: LiMuLuo_5
+  - first:
+      213: 4006819284807819871
+    second: LiMuLuo_6
+  - first:
+      213: 1504873629475665668
+    second: LiMuLuo_7
+  - first:
+      213: -8645322187167675279
+    second: LiMuLuo_8
+  - first:
+      213: -1339084205923874158
+    second: LiMuLuo_9
+  - first:
+      213: 8673571222494061690
+    second: LiMuLuo_10
+  - first:
+      213: 800247102254544585
+    second: LiMuLuo_11
+  - first:
+      213: 3663730083741991106
+    second: LiMuLuo_12
+  - first:
+      213: 6721832368081189231
+    second: LiMuLuo_13
+  - first:
+      213: 7808496683054603373
+    second: LiMuLuo_14
+  - first:
+      213: 5803802568384056703
+    second: LiMuLuo_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LiMuLuo_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e865aed38e663d180800000000000000
+      internalID: -9091810075073685874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiMuLuo_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 145
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdbadd77c7435af0800000000000000
+      internalID: -408904219025031681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiMuLuo_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 146
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e779ede0ad12070800000000000000
+      internalID: 8079978963878248065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiMuLuo_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 145
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690979963518a0fe0800000000000000
+      internalID: -1222022153623859050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiMuLuo_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 98
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4899886831b606d90800000000000000
+      internalID: -7106562480384992892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiMuLuo_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 98
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a27c518546292340800000000000000
+      internalID: 4839441354551227045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiMuLuo_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 98
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52a72619e41b9730800000000000000
+      internalID: 4006819284807819871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiMuLuo_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 98
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407ffb4c79262e410800000000000000
+      internalID: 1504873629475665668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiMuLuo_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 50
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c41119645a50880800000000000000
+      internalID: -8645322187167675279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiMuLuo_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 50
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a429d620e9a6de0800000000000000
+      internalID: -1339084205923874158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiMuLuo_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 50
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a742fc28217be5870800000000000000
+      internalID: 8673571222494061690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiMuLuo_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 50
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6fa66ef7c0b1b00800000000000000
+      internalID: 800247102254544585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiMuLuo_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c08a52991f28d230800000000000000
+      internalID: 3663730083741991106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiMuLuo_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69b33bcceeb84d50800000000000000
+      internalID: 6721832368081189231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiMuLuo_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c194fac5a5d5c60800000000000000
+      internalID: 7808496683054603373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiMuLuo_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d0803afaf3b8050800000000000000
+      internalID: 5803802568384056703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c7f6348ac59f72b4aba2c8a96761dc0b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

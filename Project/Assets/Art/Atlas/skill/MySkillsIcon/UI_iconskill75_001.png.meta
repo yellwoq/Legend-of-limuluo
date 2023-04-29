@@ -1,0 +1,2254 @@
+fileFormatVersion: 2
+guid: 380a904225c69ef409601bbb9e6f7472
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5286376033397152516
+    second: Warrior1
+  - first:
+      213: 449628460476585332
+    second: UI_iconskill75_001_1
+  - first:
+      213: 8071240538359805828
+    second: UI_iconskill75_001_2
+  - first:
+      213: -6477808247678322773
+    second: UI_iconskill75_001_3
+  - first:
+      213: 4308182194606232232
+    second: Warrior2
+  - first:
+      213: -2759043083347484719
+    second: Warrior3
+  - first:
+      213: 4842429547298653650
+    second: UI_iconskill75_001_6
+  - first:
+      213: 6489473804960924911
+    second: Warrior4
+  - first:
+      213: 5573484511106294000
+    second: UI_iconskill75_001_8
+  - first:
+      213: -8333816835302927149
+    second: UI_iconskill75_001_9
+  - first:
+      213: 6205989214056312178
+    second: UI_iconskill75_001_10
+  - first:
+      213: 715197384736474299
+    second: UI_iconskill75_001_11
+  - first:
+      213: -5525332049678243286
+    second: UI_iconskill75_001_12
+  - first:
+      213: 9079957931023246963
+    second: UI_iconskill75_001_13
+  - first:
+      213: 226358933774860659
+    second: UI_iconskill75_001_14
+  - first:
+      213: 6539802305227588135
+    second: UI_iconskill75_001_15
+  - first:
+      213: 7627049225039958795
+    second: UI_iconskill75_001_16
+  - first:
+      213: 6106945375461914213
+    second: UI_iconskill75_001_17
+  - first:
+      213: -6872115328039543480
+    second: UI_iconskill75_001_18
+  - first:
+      213: 5407327238153972554
+    second: UI_iconskill75_001_19
+  - first:
+      213: -7420496493880570028
+    second: UI_iconskill75_001_20
+  - first:
+      213: 1060604037047260740
+    second: UI_iconskill75_001_21
+  - first:
+      213: -8251543534261009928
+    second: UI_iconskill75_001_22
+  - first:
+      213: -4228699587356411207
+    second: UI_iconskill75_001_23
+  - first:
+      213: -305093263399797578
+    second: UI_iconskill75_001_24
+  - first:
+      213: -8878709266302017779
+    second: UI_iconskill75_001_25
+  - first:
+      213: 8300396255039000368
+    second: UI_iconskill75_001_26
+  - first:
+      213: -2456945308404606986
+    second: UI_iconskill75_001_27
+  - first:
+      213: 2870114826406966617
+    second: UI_iconskill75_001_28
+  - first:
+      213: 3116023079780438116
+    second: UI_iconskill75_001_29
+  - first:
+      213: -7335117895560616324
+    second: UI_iconskill75_001_30
+  - first:
+      213: 366022347401751087
+    second: UI_iconskill75_001_31
+  - first:
+      213: 1990360692516463964
+    second: UI_iconskill75_001_32
+  - first:
+      213: -3911318834749153247
+    second: UI_iconskill75_001_33
+  - first:
+      213: -8099960568636742882
+    second: UI_iconskill75_001_34
+  - first:
+      213: -7018500162066416048
+    second: UI_iconskill75_001_35
+  - first:
+      213: 8592702291896700306
+    second: UI_iconskill75_001_36
+  - first:
+      213: 2562353912087182602
+    second: UI_iconskill75_001_37
+  - first:
+      213: -5099465562664681246
+    second: UI_iconskill75_001_38
+  - first:
+      213: -2889812604681168771
+    second: UI_iconskill75_001_39
+  - first:
+      213: 247688561951679116
+    second: UI_iconskill75_001_40
+  - first:
+      213: -1334065676217200310
+    second: UI_iconskill75_001_41
+  - first:
+      213: 455349614894856776
+    second: UI_iconskill75_001_42
+  - first:
+      213: -1288512280874968394
+    second: UI_iconskill75_001_43
+  - first:
+      213: 4996134713394051509
+    second: UI_iconskill75_001_44
+  - first:
+      213: -1009912030281363230
+    second: UI_iconskill75_001_45
+  - first:
+      213: -5066549615868939227
+    second: UI_iconskill75_001_46
+  - first:
+      213: 2123494487453602369
+    second: UI_iconskill75_001_47
+  - first:
+      213: 1273127527374070254
+    second: UI_iconskill75_001_48
+  - first:
+      213: 8076800535572572784
+    second: UI_iconskill75_001_49
+  - first:
+      213: -134236892016466227
+    second: UI_iconskill75_001_50
+  - first:
+      213: 5733885211928713699
+    second: UI_iconskill75_001_51
+  - first:
+      213: 21300751713515208
+    second: UI_iconskill75_001_52
+  - first:
+      213: 1648162496544460858
+    second: UI_iconskill75_001_53
+  - first:
+      213: 4845550447385277413
+    second: UI_iconskill75_001_54
+  - first:
+      213: 5587568843257499338
+    second: UI_iconskill75_001_55
+  - first:
+      213: -5484623234119103749
+    second: UI_iconskill75_001_56
+  - first:
+      213: -5290872956378873599
+    second: UI_iconskill75_001_57
+  - first:
+      213: 2614531436695146929
+    second: UI_iconskill75_001_58
+  - first:
+      213: 403447749320372309
+    second: UI_iconskill75_001_59
+  - first:
+      213: 4516183318542453666
+    second: UI_iconskill75_001_60
+  - first:
+      213: -3270759930037011695
+    second: UI_iconskill75_001_61
+  - first:
+      213: 5901859259821653683
+    second: UI_iconskill75_001_62
+  - first:
+      213: 8818491713799340864
+    second: UI_iconskill75_001_63
+  - first:
+      213: 4005027302404310257
+    second: UI_iconskill75_001_64
+  - first:
+      213: -2164968717486180062
+    second: UI_iconskill75_001_65
+  - first:
+      213: 4188100116032964351
+    second: UI_iconskill75_001_66
+  - first:
+      213: 2075971326027336090
+    second: UI_iconskill75_001_67
+  - first:
+      213: -6471061305465330286
+    second: UI_iconskill75_001_68
+  - first:
+      213: 6750908012917490533
+    second: UI_iconskill75_001_69
+  - first:
+      213: -2652861033520741456
+    second: UI_iconskill75_001_70
+  - first:
+      213: 7019223343726811908
+    second: UI_iconskill75_001_71
+  - first:
+      213: 9094058804383884047
+    second: UI_iconskill75_001_72
+  - first:
+      213: 4001112833104215457
+    second: UI_iconskill75_001_73
+  - first:
+      213: -6391848773743714998
+    second: UI_iconskill75_001_74
+  - first:
+      213: -2035227692984123170
+    second: UI_iconskill75_001_75
+  - first:
+      213: -434543209665177352
+    second: UI_iconskill75_001_76
+  - first:
+      213: 5298170866897527878
+    second: UI_iconskill75_001_77
+  - first:
+      213: 5577905012157806398
+    second: UI_iconskill75_001_78
+  - first:
+      213: 442465388609800792
+    second: UI_iconskill75_001_79
+  - first:
+      213: 1746892292318278247
+    second: UI_iconskill75_001_80
+  - first:
+      213: 9117340359683441452
+    second: UI_iconskill75_001_81
+  - first:
+      213: -7213070806224008171
+    second: UI_iconskill75_001_82
+  - first:
+      213: 7458117757661694595
+    second: UI_iconskill75_001_83
+  - first:
+      213: -934010832804276686
+    second: UI_iconskill75_001_84
+  - first:
+      213: 8860363961733303090
+    second: UI_iconskill75_001_85
+  - first:
+      213: -3864642287196581182
+    second: UI_iconskill75_001_86
+  - first:
+      213: -2986213093857122543
+    second: UI_iconskill75_001_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 1
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Warrior1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 434
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4693c810503a6b0800000000000000
+      internalID: -5286376033397152516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 435
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475dc9bd3b66d3600800000000000000
+      internalID: 449628460476585332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 435
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4873ba1a18ec20070800000000000000
+      internalID: 8071240538359805828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 435
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7b90a38b33a16a0800000000000000
+      internalID: -6477808247678322773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 435
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2da2951ecb9cb30800000000000000
+      internalID: 4308182194606232232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 435
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df13190fe8e5b9d0800000000000000
+      internalID: -2759043083347484719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 357
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d587985404c33340800000000000000
+      internalID: 4842429547298653650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 357
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe406ebfa0e3f0a50800000000000000
+      internalID: 6489473804960924911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 357
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0e1ad12aef85d40800000000000000
+      internalID: 5573484511106294000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_9
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 357
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d459942eb5585c80800000000000000
+      internalID: -8333816835302927149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_10
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 357
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d6bb73f4a102650800000000000000
+      internalID: 6205989214056312178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 357
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4818d6b34ece900800000000000000
+      internalID: 715197384736474299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 279
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ae8d876c31253b0800000000000000
+      internalID: -5525332049678243286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 279
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376a12e61ad720e70800000000000000
+      internalID: 9079957931023246963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 279
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371036f3040342300800000000000000
+      internalID: 226358933774860659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_15
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 279
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7220f581c8b02ca50800000000000000
+      internalID: 6539802305227588135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_16
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 279
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03dcee3cd8b8d960800000000000000
+      internalID: 7627049225039958795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_17
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 279
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5663f17867a30c450800000000000000
+      internalID: 6106945375461914213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 201
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d9fa8e48751a0a0800000000000000
+      internalID: -6872115328039543480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 201
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b267e497faa0b40800000000000000
+      internalID: 5407327238153972554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_20
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 201
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f873911c9150990800000000000000
+      internalID: -7420496493880570028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_21
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 201
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4461c8b90c508be00800000000000000
+      internalID: 1060604037047260740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_22
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 201
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f183b7cfd0ac7d80800000000000000
+      internalID: -8251543534261009928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_23
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 201
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bab7c14124a055c0800000000000000
+      internalID: -4228699587356411207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 123
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcb0bb1b4714cbf0800000000000000
+      internalID: -305093263399797578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 123
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f5916b6fc78c480800000000000000
+      internalID: -8878709266302017779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_26
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 123
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f0594aa6ee03370800000000000000
+      internalID: 8300396255039000368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_27
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 123
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f71bfb624d27edd0800000000000000
+      internalID: -2456945308404606986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_28
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 123
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955b1946a32b4d720800000000000000
+      internalID: 2870114826406966617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_29
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 123
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4605b3e4b765e3b20800000000000000
+      internalID: 3116023079780438116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76af79132d643a90800000000000000
+      internalID: -7335117895560616324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 45
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a6cbcb26f541500800000000000000
+      internalID: 366022347401751087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 45
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c552854218e2f9b10800000000000000
+      internalID: 1990360692516463964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_33
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 45
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1206b7b2e3438b9c0800000000000000
+      internalID: -3911318834749153247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_34
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 45
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e136cbb37c8279f80800000000000000
+      internalID: -8099960568636742882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_35
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 45
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e7208c947499e90800000000000000
+      internalID: -7018500162066416048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d003955396f3770800000000000000
+      internalID: 8592702291896700306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_37
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 36
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0df9ce9e4f4f8320800000000000000
+      internalID: 2562353912087182602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_38
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 37
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0c801c61f0b39b0800000000000000
+      internalID: -5099465562664681246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_39
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 39
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7858863fb255e7d0800000000000000
+      internalID: -2889812604681168771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_40
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 32
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82ae0e4f67ff6300800000000000000
+      internalID: 247688561951679116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_41
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 32
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41580ee5527c7de0800000000000000
+      internalID: -1334065676217200310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_42
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 32
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a3b6cef0ab15600800000000000000
+      internalID: 455349614894856776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 32
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba18b948e84e1ee0800000000000000
+      internalID: -1288512280874968394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_44
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 32
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9b9d91d06d55540800000000000000
+      internalID: 4996134713394051509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 32
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e09fa4fb521cf1f0800000000000000
+      internalID: -1009912030281363230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_46
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 32
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5247d35d7ffffa9b0800000000000000
+      internalID: -5066549615868939227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_47
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1421c2f4cfa287d10800000000000000
+      internalID: 2123494487453602369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_48
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 32
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee127e6adbe0ba110800000000000000
+      internalID: 1273127527374070254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_49
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 32
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07aec7c5b4f861070800000000000000
+      internalID: 8076800535572572784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_50
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 38
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc62b970248132ef0800000000000000
+      internalID: -134236892016466227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_51
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 34
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e950e7883ad29f40800000000000000
+      internalID: 5733885211928713699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_52
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 32
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6355bbbecab4000800000000000000
+      internalID: 21300751713515208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_53
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 32
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3057aaee037fd610800000000000000
+      internalID: 1648162496544460858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_54
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 32
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e372a5857ade3340800000000000000
+      internalID: 4845550447385277413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_55
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace476c32480b8d40800000000000000
+      internalID: 5587568843257499338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_56
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 37
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa0a733a34b2e3b0800000000000000
+      internalID: -5484623234119103749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_57
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 37
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1010153141b0396b0800000000000000
+      internalID: -5290872956378873599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_58
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b15e424d7ea84420800000000000000
+      internalID: 2614531436695146929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_59
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 32
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550fba72795599500800000000000000
+      internalID: 403447749320372309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_60
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 32
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab844aecc4bcae30800000000000000
+      internalID: 4516183318542453666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_61
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 37
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bff804c2deb92d0800000000000000
+      internalID: -3270759930037011695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_62
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 32
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bef4083abd97e150800000000000000
+      internalID: 5901859259821653683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_63
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 32
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0434cb7cd73916a70800000000000000
+      internalID: 8818491713799340864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_64
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 32
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4cc8bac17b49730800000000000000
+      internalID: 4005027302404310257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_65
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 32
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22937640c6c74f1e0800000000000000
+      internalID: -2164968717486180062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_66
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 37
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6cae3bdde1f1a30800000000000000
+      internalID: 4188100116032964351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_67
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 32
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9981cb0ce45fcc10800000000000000
+      internalID: 2075971326027336090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_68
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 38
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295a6ff170c2236a0800000000000000
+      internalID: -6471061305465330286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_69
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 32
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5630945e11b00bd50800000000000000
+      internalID: 6750908012917490533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_70
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 34
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3458a02f42f2bd0800000000000000
+      internalID: -2652861033520741456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_71
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 38
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b57f1117a496160800000000000000
+      internalID: 7019223343726811908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_72
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 32
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03a0d9dc46943e70800000000000000
+      internalID: 9094058804383884047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_73
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 37
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adfe634ceec68730800000000000000
+      internalID: 4001112833104215457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_74
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 38
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d5dfed7679b47a0800000000000000
+      internalID: -6391848773743714998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_75
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 37
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0c4a2423b61c3e0800000000000000
+      internalID: -2035227692984123170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_76
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 32
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8595cc04138f9f0800000000000000
+      internalID: -434543209665177352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_77
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64420c02552e68940800000000000000
+      internalID: 5298170866897527878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_78
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 34
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3779883e03b86d40800000000000000
+      internalID: 5577905012157806398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_79
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 32
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a0e793de3f32600800000000000000
+      internalID: 442465388609800792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_80
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 32
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762bf70d8453e3810800000000000000
+      internalID: 1746892292318278247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_81
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 32
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23834b50cc478e70800000000000000
+      internalID: 9117340359683441452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_82
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 32
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c0747715606eb90800000000000000
+      internalID: -7213070806224008171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_83
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 32
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a4576f59e808760800000000000000
+      internalID: 7458117757661694595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_84
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 32
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236955e981ab903f0800000000000000
+      internalID: -934010832804276686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_85
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 32
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b49c7341656fa70800000000000000
+      internalID: 8860363961733303090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_86
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 32
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2d1b7c0580e5ac0800000000000000
+      internalID: -3864642287196581182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_iconskill75_001_87
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 32
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117a6054307de86d0800000000000000
+      internalID: -2986213093857122543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e3b4ef9bab7acdf4d9e86d880a4f0f86
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

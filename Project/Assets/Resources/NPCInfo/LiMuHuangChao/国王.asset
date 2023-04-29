@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f509955029dd7a44bb53ec5886386ebf, type: 3}
+  m_Name: "\u56FD\u738B"
+  m_EditorClassIdentifier: 
+  _ID: NPC001
+  _Name: "\u68A8\u6728\u7687"
+  chType: 1
+  headIcon: {fileID: 21300000, guid: 2d276836644629848bb234aa499b2cb8, type: 3}
+  defaultDialogue: {fileID: 11400000, guid: 8d0872bd17ffa294e906253debffcfc5, type: 2}
+  isVendor: 0
+  isHasQuest: 1
+  questsStored:
+  - {fileID: 11400000, guid: a9069dffd1a190b4f9b22f26600c4101, type: 2}

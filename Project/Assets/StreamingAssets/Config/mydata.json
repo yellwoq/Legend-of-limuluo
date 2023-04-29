@@ -1,0 +1,1396 @@
+{
+    "type": "database",
+    "name": "mydata",
+    "objects": [
+        {
+            "type": "table",
+            "database": null,
+            "name": "ItemInfo",
+            "withoutRowId": true,
+            "ddl": "CREATE TABLE ItemInfo (ID int, Name STRING, Icon_Name STRING, BigType STRING, Type STRING, Price_Buy int, Price_Sell INT, ApplyValue int, ApplyHeroID INT, Des STRING)",
+            "columns": [
+                {
+                    "name": "ID",
+                    "type": "int"
+                },
+                {
+                    "name": "Name",
+                    "type": "STRING"
+                },
+                {
+                    "name": "Icon_Name",
+                    "type": "STRING"
+                },
+                {
+                    "name": "BigType",
+                    "type": "STRING"
+                },
+                {
+                    "name": "Type",
+                    "type": "STRING"
+                },
+                {
+                    "name": "Price_Buy",
+                    "type": "int"
+                },
+                {
+                    "name": "Price_Sell",
+                    "type": "INT"
+                },
+                {
+                    "name": "ApplyValue",
+                    "type": "int"
+                },
+                {
+                    "name": "ApplyHeroID",
+                    "type": "INT"
+                },
+                {
+                    "name": "Des",
+                    "type": "STRING"
+                }
+            ],
+            "rows": [
+                [
+                    1,
+                    "初级血瓶",
+                    "D1",
+                    "Consumables",
+                    "HpDrug",
+                    10,
+                    1,
+                    100,
+                    3,
+                    "恢复100点HP"
+                ],
+                [
+                    2,
+                    "中级血瓶",
+                    "D2",
+                    "Consumables",
+                    "HpDrug",
+                    50,
+                    5,
+                    500,
+                    3,
+                    "恢复500点HP"
+                ],
+                [
+                    3,
+                    "高级血瓶",
+                    "D3",
+                    "Consumables",
+                    "HpDrug",
+                    100,
+                    50,
+                    1000,
+                    3,
+                    "恢复1000点HP"
+                ],
+                [
+                    4,
+                    "初级魔瓶",
+                    "D4",
+                    "Consumables",
+                    "MpDrug",
+                    10,
+                    1,
+                    50,
+                    3,
+                    "恢复50点MP"
+                ],
+                [
+                    5,
+                    "中级魔瓶",
+                    "D5",
+                    "Consumables",
+                    "MpDrug",
+                    50,
+                    5,
+                    200,
+                    3,
+                    "恢复200点MP"
+                ],
+                [
+                    6,
+                    "高级魔瓶",
+                    "D6",
+                    "Consumables",
+                    "MpDrug",
+                    100,
+                    50,
+                    400,
+                    3,
+                    "恢复400点MP"
+                ],
+                [
+                    100,
+                    "不二刀",
+                    "A1",
+                    " Equipment",
+                    "Weapon",
+                    100,
+                    500,
+                    1,
+                    1,
+                    "一把神秘的刀"
+                ],
+                [
+                    101,
+                    "三尺剑",
+                    "A2",
+                    " Equipment",
+                    "Weapon",
+                    200,
+                    100,
+                    2,
+                    1,
+                    "三尺剑"
+                ],
+                [
+                    102,
+                    "三尖两刃刀",
+                    "A3",
+                    " Equipment",
+                    "Weapon",
+                    300,
+                    150,
+                    3,
+                    1,
+                    "锋利无比的刀，刀柄后端有一三棱形铁鐏其用法以扎、绞为主。"
+                ],
+                [
+                    103,
+                    "七尺刀",
+                    "A4",
+                    " Equipment",
+                    "Weapon",
+                    400,
+                    200,
+                    4,
+                    1,
+                    "古代长剑的代称。平戎七尺剑，封检一丸泥。长剑七尺。"
+                ],
+                [
+                    104,
+                    "绝圣刀",
+                    "A5",
+                    " Equipment",
+                    "Weapon",
+                    500,
+                    250,
+                    5,
+                    1,
+                    "古代的名刀，丕造百辟宝刀。"
+                ],
+                [
+                    105,
+                    "神修剑",
+                    "A6",
+                    " Equipment",
+                    "Weapon",
+                    600,
+                    300,
+                    6,
+                    1,
+                    "属上古降魔利器。该剑既出，能幻出道道金白之光，杀伤力极强。"
+                ],
+                [
+                    106,
+                    "鳞绝魔剑",
+                    "A7",
+                    " Equipment",
+                    "Weapon",
+                    700,
+                    350,
+                    7,
+                    1,
+                    "出手必伤人，剑势便无法控制，魔剑之下，不是死亡，就是残废。"
+                ],
+                [
+                    107,
+                    "七星剑",
+                    "A8",
+                    " Equipment",
+                    "Weapon",
+                    800,
+                    400,
+                    8,
+                    1,
+                    "剑身镶嵌七颗金黄宝石，可吸取北斗七星之精气。"
+                ],
+                [
+                    108,
+                    "冰魄寒光刀",
+                    "A9",
+                    " Equipment",
+                    "Weapon",
+                    1000,
+                    500,
+                    9,
+                    1,
+                    "此剑通体透明，耀眼生辉，剑一出鞘，便觉冷气森森。"
+                ],
+                [
+                    109,
+                    "冷凝剑",
+                    "A10",
+                    " Equipment",
+                    "Weapon",
+                    1500,
+                    700,
+                    10,
+                    1,
+                    "以镍和精钢合金锻成的剑，锋利且坚硬。"
+                ],
+                [
+                    110,
+                    "八妖赤眉",
+                    "A11",
+                    " Equipment",
+                    "Weapon",
+                    2000,
+                    1000,
+                    11,
+                    1,
+                    "妖艳的一柄刀。刀刃游动着龙行纹，甚至有点妩媚的感觉。"
+                ],
+                [
+                    111,
+                    "璇光侠",
+                    "A12",
+                    " Equipment",
+                    "Weapon",
+                    2500,
+                    1250,
+                    13,
+                    1,
+                    "其薄如纸，一面人作剑形，另一面作锯齿状，削铁如泥。"
+                ],
+                [
+                    112,
+                    "赤金神刀",
+                    "A13",
+                    " Equipment",
+                    "Weapon",
+                    3000,
+                    1500,
+                    15,
+                    1,
+                    "上古神器，不甚锋利，舞动之间倒也颇有气势。"
+                ],
+                [
+                    113,
+                    "阴阳诸天剑",
+                    "A14",
+                    " Equipment",
+                    "Weapon",
+                    3500,
+                    1700,
+                    20,
+                    1,
+                    "龙刀横脖上，画尺堕众前，此剑一出，天地为之改变，万物颤抖。"
+                ],
+                [
+                    114,
+                    "裂空剑",
+                    "A15",
+                    " Equipment",
+                    "Weapon",
+                    5000,
+                    2600,
+                    25,
+                    1,
+                    "灭苍天、杀仙神、穿时空、进太古，充满神秘力量的武器。"
+                ],
+                [
+                    115,
+                    "天神之寒雪",
+                    "A16",
+                    " Equipment",
+                    "Weapon",
+                    10000,
+                    5000,
+                    1,
+                    2,
+                    "乃神造之物，既有为救赎苍生，亦有只为彰显其无尚神威！"
+                ],
+                [
+                    17,
+                    "不二杖",
+                    "A17",
+                    " Equipment",
+                    "Weapon",
+                    100,
+                    50,
+                    2,
+                    2,
+                    "一根神秘的法杖"
+                ],
+                [
+                    18,
+                    "三编杖",
+                    "A18",
+                    " Equipment",
+                    "Weapon",
+                    200,
+                    100,
+                    3,
+                    2,
+                    "三编杖"
+                ],
+                [
+                    19,
+                    "天健魔杖",
+                    "A19",
+                    " Equipment",
+                    "Weapon",
+                    300,
+                    150,
+                    4,
+                    2,
+                    "由天健魔人打造而成的法杖"
+                ],
+                [
+                    20,
+                    "长杖",
+                    "A20",
+                    " Equipment",
+                    "Weapon",
+                    400,
+                    200,
+                    5,
+                    2,
+                    "古代法杖的代称。"
+                ],
+                [
+                    21,
+                    "巨人权杖",
+                    "A21",
+                    " Equipment",
+                    "Weapon",
+                    500,
+                    250,
+                    6,
+                    2,
+                    "古代巨人的法杖。"
+                ],
+                [
+                    22,
+                    "冰魄法杖",
+                    "A22",
+                    " Equipment",
+                    "Weapon",
+                    600,
+                    300,
+                    7,
+                    2,
+                    "属上古降魔利器。该杖既出，能幻出道道金白之光，杀伤力极强。"
+                ],
+                [
+                    23,
+                    "鳞绝魔杖",
+                    "A23",
+                    " Equipment",
+                    "Weapon",
+                    700,
+                    350,
+                    8,
+                    2,
+                    "出手必伤人，杖势便无法控制，魔杖之下，不是死亡，就是残废。"
+                ],
+                [
+                    24,
+                    "七星杖",
+                    "A24",
+                    " Equipment",
+                    "Weapon",
+                    800,
+                    400,
+                    9,
+                    2,
+                    "杖身镶嵌七颗金黄宝石，可吸取北斗七星之精气。"
+                ],
+                [
+                    25,
+                    "七尺杖",
+                    "A25",
+                    " Equipment",
+                    "Weapon",
+                    1000,
+                    500,
+                    10,
+                    2,
+                    "古代法杖的代称。平戎七尺杖，封检一丸泥。长杖七尺。"
+                ],
+                [
+                    26,
+                    "冷凝杖",
+                    "A26",
+                    " Equipment",
+                    "Weapon",
+                    1500,
+                    750,
+                    11,
+                    2,
+                    "此杖通体透明，耀眼生辉，杖一发动，便觉冷气森森。"
+                ],
+                [
+                    27,
+                    "八妖赤眉杖",
+                    "A27",
+                    " Equipment",
+                    "Weapon",
+                    2000,
+                    1000,
+                    13,
+                    2,
+                    "妖艳的一柄杖。"
+                ],
+                [
+                    30,
+                    "阴阳诸天杖",
+                    "A28",
+                    " Equipment",
+                    "Weapon",
+                    3500,
+                    1750,
+                    15,
+                    2,
+                    "龙刀横脖上，画尺堕众前，此剑一出，天地为之改变，万物颤抖。"
+                ],
+                [
+                    31,
+                    "高魔杖",
+                    "A29",
+                    " Equipment",
+                    "Weapon",
+                    5000,
+                    2500,
+                    20,
+                    2,
+                    "灭苍天、杀仙神、穿时空、进太古，充满神秘力量的武器。"
+                ],
+                [
+                    32,
+                    "天神之烈焰",
+                    "A30",
+                    " Equipment",
+                    "Weapon",
+                    10000,
+                    5000,
+                    25,
+                    2,
+                    "乃神造之物，既有为救赎苍生，亦有只为彰显其无尚神威！"
+                ],
+                [
+                    200,
+                    "守护之裳",
+                    "B1",
+                    " Equipment",
+                    "Clothes",
+                    100,
+                    50,
+                    3,
+                    2,
+                    "有守护之力"
+                ],
+                [
+                    201,
+                    "守护之铠",
+                    "B2",
+                    " Equipment",
+                    "Clothes",
+                    100,
+                    50,
+                    4,
+                    1,
+                    "有守护之力"
+                ],
+                [
+                    202,
+                    "镜芒裳",
+                    "B3",
+                    " Equipment",
+                    "Clothes",
+                    200,
+                    100,
+                    5,
+                    2,
+                    "传说会发出耀眼的光芒"
+                ],
+                [
+                    203,
+                    "镜芒铠",
+                    "B4",
+                    " Equipment",
+                    "Clothes",
+                    200,
+                    100,
+                    7,
+                    1,
+                    "传说会发出耀眼的光芒"
+                ],
+                [
+                    204,
+                    "圣痕之裳",
+                    "B5",
+                    " Equipment",
+                    "Clothes",
+                    300,
+                    150,
+                    6,
+                    2,
+                    "会闪出一道圣光"
+                ],
+                [
+                    205,
+                    "圣痕之铠",
+                    "B6",
+                    " Equipment",
+                    "Clothes",
+                    300,
+                    150,
+                    8,
+                    1,
+                    "会闪出一道圣光"
+                ],
+                [
+                    206,
+                    "龙麟之裳",
+                    "B7",
+                    " Equipment",
+                    "Clothes",
+                    400,
+                    200,
+                    7,
+                    2,
+                    "据说是由龙鳞打造而成"
+                ],
+                [
+                    207,
+                    "龙麟铠甲",
+                    "B8",
+                    " Equipment",
+                    "Clothes",
+                    400,
+                    200,
+                    10,
+                    1,
+                    "据说是由龙鳞打造而成"
+                ],
+                [
+                    208,
+                    "祭祀血袍",
+                    "B9",
+                    " Equipment",
+                    "Clothes",
+                    500,
+                    250,
+                    8,
+                    2,
+                    "是由999个人的血打造而成"
+                ],
+                [
+                    209,
+                    "祭祀血甲",
+                    "B10",
+                    " Equipment",
+                    "Clothes",
+                    500,
+                    250,
+                    12,
+                    1,
+                    "是由999个人的血打造而成"
+                ],
+                [
+                    210,
+                    "暗血冥袍",
+                    "B11",
+                    " Equipment",
+                    "Clothes",
+                    600,
+                    300,
+                    9,
+                    2,
+                    "可以抗火的铠甲"
+                ],
+                [
+                    211,
+                    "暗血冥甲",
+                    "B12",
+                    " Equipment",
+                    "Clothes",
+                    600,
+                    300,
+                    15,
+                    1,
+                    "可以抗火的铠甲"
+                ],
+                [
+                    212,
+                    "和谐之裳",
+                    "B13",
+                    " Equipment",
+                    "Clothes",
+                    700,
+                    350,
+                    11,
+                    2,
+                    "传说穿上可以平息战乱"
+                ],
+                [
+                    213,
+                    "和谐之甲",
+                    "B14",
+                    " Equipment",
+                    "Clothes",
+                    700,
+                    350,
+                    20,
+                    1,
+                    "传说穿上可以平息战乱"
+                ],
+                [
+                    214,
+                    "真理圣袍",
+                    "B15",
+                    " Equipment",
+                    "Clothes",
+                    800,
+                    400,
+                    15,
+                    2,
+                    "穿上可以得到真理"
+                ],
+                [
+                    215,
+                    "真理圣甲",
+                    "B16",
+                    " Equipment",
+                    "Clothes",
+                    300,
+                    400,
+                    25,
+                    1,
+                    "穿上可以得到真理"
+                ],
+                [
+                    600,
+                    "守护之鞋",
+                    "C1",
+                    " Equipment",
+                    "Shoes",
+                    100,
+                    50,
+                    3,
+                    2,
+                    "有守护之力的鞋子"
+                ],
+                [
+                    602,
+                    "镜芒鞋",
+                    "C2",
+                    " Equipment",
+                    "Shoes",
+                    300,
+                    200,
+                    5,
+                    2,
+                    "传说会发出耀眼的光芒"
+                ],
+                [
+                    604,
+                    "圣痕之鞋",
+                    "C3",
+                    " Equipment",
+                    "Shoes",
+                    1000,
+                    500,
+                    8,
+                    2,
+                    "会闪出一道圣光"
+                ],
+                [
+                    601,
+                    "守护之靴",
+                    "C4",
+                    " Equipment",
+                    "Shoes",
+                    100,
+                    50,
+                    4,
+                    1,
+                    "有守护之力的鞋子"
+                ],
+                [
+                    603,
+                    "镜芒靴",
+                    "C5",
+                    " Equipment",
+                    "Shoes",
+                    400,
+                    200,
+                    6,
+                    1,
+                    "传说会发出耀眼的光芒"
+                ],
+                [
+                    605,
+                    "圣痕之靴",
+                    "C6",
+                    " Equipment",
+                    "Shoes",
+                    1200,
+                    800,
+                    10,
+                    1,
+                    "会闪出一道圣光"
+                ],
+                [
+                    1000,
+                    "狼人的手掌",
+                    "T1",
+                    "MissionProp",
+                    "MissionProp",
+                    0,
+                    0,
+                    0,
+                    3,
+                    "击杀狼人获得的物品"
+                ],
+                [
+                    1001,
+                    "梨木皇的剑",
+                    "T2",
+                    "MissionProp",
+                    "MissionProp",
+                    0,
+                    0,
+                    0,
+                    3,
+                    "传说梨木皇的剑锋利无比，可以击杀许多传说的妖怪"
+                ]
+            ]
+        },
+        {
+            "type": "table",
+            "database": null,
+            "name": "SkillInfo",
+            "withoutRowId": true,
+            "ddl": "CREATE TABLE SkillInfo (id INT PRIMARY KEY, Name STRING, IconName STRING, InitValue INT, Growthvalue INT, MaxLv INT, MpCons INT, MpConsGrowth INT, Coolingtime INT, ApplyHeroID INT, Description STRING)",
+            "columns": [
+                {
+                    "name": "id",
+                    "type": "INT",
+                    "constraints": [
+                        {
+                            "type": "PRIMARY KEY",
+                            "definition": "PRIMARY KEY"
+                        }
+                    ]
+                },
+                {
+                    "name": "Name",
+                    "type": "STRING"
+                },
+                {
+                    "name": "IconName",
+                    "type": "STRING"
+                },
+                {
+                    "name": "InitValue",
+                    "type": "INT"
+                },
+                {
+                    "name": "Growthvalue",
+                    "type": "INT"
+                },
+                {
+                    "name": "MaxLv",
+                    "type": "INT"
+                },
+                {
+                    "name": "MpCons",
+                    "type": "INT"
+                },
+                {
+                    "name": "MpConsGrowth",
+                    "type": "INT"
+                },
+                {
+                    "name": "Coolingtime",
+                    "type": "INT"
+                },
+                {
+                    "name": "ApplyHeroID",
+                    "type": "INT"
+                },
+                {
+                    "name": "Description",
+                    "type": "STRING"
+                }
+            ],
+            "rows": [
+                [
+                    2,
+                    "狂乱之威",
+                    "Warrior2",
+                    35,
+                    10,
+                    5,
+                    30,
+                    7,
+                    9,
+                    1,
+                    "用猛烈的攻击给敌人造成35+（10*等级）的伤害，并削弱敌人10%的防御力"
+                ],
+                [
+                    3,
+                    "切裂之风轮",
+                    "Warrior3",
+                    40,
+                    15,
+                    3,
+                    45,
+                    10,
+                    9,
+                    1,
+                    "以风暴般的攻击给周围敌人造成40+（15*等级）点伤害，持续5秒"
+                ],
+                [
+                    4,
+                    "剑风残影",
+                    "Warrior4",
+                    50,
+                    20,
+                    3,
+                    80,
+                    15,
+                    15,
+                    1,
+                    "会留下一道残影，释放巨剑，并对敌人造成50+（20*等级）的持续伤害，持续2秒，释放后会瞬间移动到敌人后方"
+                ],
+                [
+                    5,
+                    "爆裂火球",
+                    "Wizard1",
+                    25,
+                    5,
+                    5,
+                    20,
+                    5,
+                    5,
+                    2,
+                    "投掷巨大的火球，对目标和周围的敌人造成25+（5*等级）的伤害"
+                ],
+                [
+                    6,
+                    "石魔附体",
+                    "Wizard2",
+                    35,
+                    10,
+                    5,
+                    30,
+                    7,
+                    8,
+                    2,
+                    "石魔附身，提高自身35+（10*等级)的伤害，持续5秒"
+                ],
+                [
+                    7,
+                    "天降大火",
+                    "Wizard3",
+                    40,
+                    15,
+                    3,
+                    40,
+                    10,
+                    10,
+                    2,
+                    "瞬间向周围敌人发出大火球，造成敌人40+（15*等级）的伤害，持续5秒"
+                ],
+                [
+                    8,
+                    "起死回生",
+                    "Wizard4",
+                    50,
+                    20,
+                    3,
+                    70,
+                    15,
+                    20,
+                    2,
+                    "释放后，可以在10秒内死亡后重新复活并回复50+（20*等级）的血量，如果10秒内没有死，则回复10秒内损失的血量"
+                ],
+                [
+                    1,
+                    "毁灭之剑",
+                    "Warrior1",
+                    25,
+                    5,
+                    5,
+                    20,
+                    5,
+                    5,
+                    1,
+                    "向前方敌人挥出剑气，给敌人造成25+（5*等级）的伤害并击退敌人"
+                ]
+            ]
+        },
+        {
+            "type": "table",
+            "database": null,
+            "name": "User",
+            "withoutRowId": true,
+            "ddl": "CREATE TABLE User (uid STRING, username STRING, password TEXT, loginDate DATETIME, PRIMARY KEY (uid))",
+            "columns": [
+                {
+                    "name": "uid",
+                    "type": "STRING"
+                },
+                {
+                    "name": "username",
+                    "type": "STRING"
+                },
+                {
+                    "name": "password",
+                    "type": "TEXT"
+                },
+                {
+                    "name": "loginDate",
+                    "type": "DATETIME"
+                }
+            ],
+            "constraints": [
+                {
+                    "type": "PRIMARY KEY",
+                    "definition": "PRIMARY KEY (uid)"
+                }
+            ],
+            "rows": [
+                [
+                    "c9388e778c5646cdb2bd015e0030dd27",
+                    "dzq",
+                    "qwe",
+                    "2017\/12\/12 17:49:59"
+                ],
+                [
+                    "4c4e18718d744485b263a35e7d6a42eb",
+                    "hua",
+                    "1234",
+                    "2017\/10\/11 17:33:18"
+                ],
+                [
+                    "a1713e9c79a2422598538a1bc9493ee0",
+                    "b",
+                    "123",
+                    "2017\/10\/9 16:54:28"
+                ],
+                [
+                    "f87e26e2bc6d43579b3060f5d89e60bc",
+                    "q",
+                    "q",
+                    "2017\/10\/13 14:50:46"
+                ],
+                [
+                    "6540c45c6874424aa772f5c64bb76d4c",
+                    "w",
+                    "w",
+                    "2017\/10\/13 16:01:02"
+                ],
+                [
+                    "23b283ce984a4b63aeb77b891b938c80",
+                    "e",
+                    "e",
+                    "2017\/10\/19 10:42:25"
+                ],
+                [
+                    "cd17c13d24774dd9b96b331be9b69b99",
+                    "ww",
+                    "w",
+                    "2017\/10\/25 9:24:30"
+                ],
+                [
+                    "261c8ccdf2d846be8ae5f6fd1cd2ea84",
+                    "l",
+                    "1234",
+                    "2021\/2\/20 16:43:52"
+                ],
+                [
+                    "bbf2a7ebcdb64df39b8c025589336882",
+                    "liu",
+                    "1234",
+                    "2021\/2\/23 21:51:08"
+                ],
+                [
+                    "0139283303e04708b6858ce694dc4355",
+                    "zhan",
+                    "1234",
+                    "2021\/2\/23 22:06:29"
+                ],
+                [
+                    "d170732bf1a64c278be86be2fafbda37",
+                    "huang",
+                    "1234",
+                    "2021-04-04 10:57:13"
+                ]
+            ]
+        },
+        {
+            "type": "table",
+            "database": null,
+            "name": "Hero",
+            "withoutRowId": true,
+            "ddl": "CREATE TABLE Hero (id INTEGER PRIMARY KEY AUTOINCREMENT, type STRING, roleName STRING, description TEXT)",
+            "columns": [
+                {
+                    "name": "id",
+                    "type": "INTEGER",
+                    "constraints": [
+                        {
+                            "type": "PRIMARY KEY",
+                            "definition": "PRIMARY KEY AUTOINCREMENT"
+                        }
+                    ]
+                },
+                {
+                    "name": "type",
+                    "type": "STRING"
+                },
+                {
+                    "name": "roleName",
+                    "type": "STRING"
+                },
+                {
+                    "name": "description",
+                    "type": "TEXT"
+                }
+            ],
+            "rows": [
+                [
+                    1,
+                    "Warrior",
+                    "战士",
+                    "长久以来，崇尚英勇，荣耀与美德的圣骑士们守护着勇士之地。他们每年秋季都会举行武道大会，并演变为一大盛事。人们白天比武，夜晚饮酒作乐，欢庆丰收。最后的胜利者将加入圣骑士团，成为其中的一员。\n然而，随着帝国与同盟的战争常年不熄，英勇的圣骑士相继牺牲，圣骑士团的力量逐渐衰落，进而陷入争吵和分裂。这件事被敌对者所利用，策划着要将圣骑士们一举抹杀。\n这一年的武道大会如期举行，人们从四面八方涌向勇士之地。此时同盟的军队发动了突袭。他们如暴风般席卷了防卫空虚的城镇和村庄，又像闪电一样离开，当圣骑士团赶到时，只留下焚烧后的废墟与悲泣的人们。\n这样的惨剧在短短数天内反复上演了三次。勇士之地陷入了恐慌中。圣骑士团疲于奔命却无能为力。紧接着，更加大胆的第四次袭击，直指圣骑士团的所在之地。如果让他们得逞，圣骑士团数百年来的荣耀会彻底的丧失。\n骑士们星夜奔回时，却看到与预想完全不同的景象：神圣的殿堂依然庄严高耸，鲜血和头颅都来自卑鄙的袭击者。独自一人完成这丰功伟绩的，是位远道而来的青年旅人。而他手中竟然持着被称为“王者之剑”的誓约胜利之剑。这把剑原本插在圣堂供奉的巨石中，据说是由湖中仙女敬献给远古最伟大的亚瑟王。\n得救的人们讲述了当时的情景：袭击者们冲入圣地，人们四散逃窜。旅人原本的铁剑在砍杀中折断。他看到了巨石中的圣剑，轻松拔出它，并击退所有敌人。\n圣骑士团轰动了。拔出誓约胜利之剑的人将获得圣骑士们的效忠，这古老的条约代代相传。他们将拯救了圣地的青年围在中间，举剑向他宣誓忠诚！\n亚瑟率领下，圣骑士团开始伟大的复兴。在他们的支持下，亚瑟集合了勇士之地的力量，将创造新的理想乡作为自己的信仰。现在，这位王者将他的剑指向了过去的袭击者们。这些强盗将为血的回忆付出代价。\n“因剑而生，因剑而亡！”"
+                ],
+                [
+                    2,
+                    "Wizard",
+                    "法师",
+                    "梅林“曾经”是大陆上最神秘的法师之一，还肩负着辅佐王者的伟大使命。不幸她失手将自己关在了一个魔法气泡囚笼中。\n数百年里，为了逃出囚笼，她用尽办法。最后，她将一个玩偶扔在路旁。当名叫安琪拉的小姑娘拾起玩偶时，她发动了灵魂交换的法术，占用了她的身体。 欣喜若狂的梅林正要寻找回去的路，一位圣骑士发现了她，并好心护送她。梅林发现她无法拒绝骑士，因为身体原主人想必十分仰慕他。她想杀掉骑士时，听到有人叫他“亚瑟”。\n　　梅林痛苦万分。其实她并非正义的巫师，相反曾野心勃勃，但有人打败她，并诅咒她，让她被迫听命于亚瑟王。亚瑟王死后，她又被囚禁数百年。现在，诅咒再次生效。小女孩的单恋让骑士亚瑟成为她的新主人。\n　　圣骑士察觉到可疑：\n　　“你是谁！”\n　　“请接受我——法师安琪拉的效忠。命运安排我们重逢。”过去的梅林，如今的安琪拉展露与年龄不符的微笑。\n　　无论如何，我回来了。我要报复，我要找回尊严和自信。\n“知识，就是力量！”"
+                ]
+            ]
+        },
+        {
+            "type": "table",
+            "database": null,
+            "name": "User_Hero",
+            "withoutRowId": true,
+            "ddl": "CREATE TABLE User_Hero (UserID STRING NOT NULL REFERENCES User (uid), HeroID STRING NOT NULL, Name STRING, Type STRING, Lv INT, CurrentExp INT, NextLvNeedExp INT, Money INT, Force INT, Spirit INT, Intellect INT, Speed INT, DEM INT, DEF INT, CurrentHP INT, CurrentMP INT, MaxHP INT, MaxMP INT, FileName STRING, PRIMARY KEY (UserID, HeroID))",
+            "columns": [
+                {
+                    "name": "UserID",
+                    "type": "STRING",
+                    "constraints": [
+                        {
+                            "type": "NOT NULL",
+                            "definition": "NOT NULL "
+                        },
+                        {
+                            "type": "FOREIGN KEY",
+                            "definition": "REFERENCES User (uid)"
+                        }
+                    ]
+                },
+                {
+                    "name": "HeroID",
+                    "type": "STRING",
+                    "constraints": [
+                        {
+                            "type": "NOT NULL",
+                            "definition": "NOT NULL"
+                        }
+                    ]
+                },
+                {
+                    "name": "Name",
+                    "type": "STRING"
+                },
+                {
+                    "name": "Type",
+                    "type": "STRING"
+                },
+                {
+                    "name": "Lv",
+                    "type": "INT"
+                },
+                {
+                    "name": "CurrentExp",
+                    "type": "INT"
+                },
+                {
+                    "name": "NextLvNeedExp",
+                    "type": "INT"
+                },
+                {
+                    "name": "Money",
+                    "type": "INT"
+                },
+                {
+                    "name": "Force",
+                    "type": "INT"
+                },
+                {
+                    "name": "Spirit",
+                    "type": "INT"
+                },
+                {
+                    "name": "Intellect",
+                    "type": "INT"
+                },
+                {
+                    "name": "Speed",
+                    "type": "INT"
+                },
+                {
+                    "name": "DEM",
+                    "type": "INT"
+                },
+                {
+                    "name": "DEF",
+                    "type": "INT"
+                },
+                {
+                    "name": "CurrentHP",
+                    "type": "INT"
+                },
+                {
+                    "name": "CurrentMP",
+                    "type": "INT"
+                },
+                {
+                    "name": "MaxHP",
+                    "type": "INT"
+                },
+                {
+                    "name": "MaxMP",
+                    "type": "INT"
+                },
+                {
+                    "name": "FileName",
+                    "type": "STRING"
+                }
+            ],
+            "constraints": [
+                {
+                    "type": "PRIMARY KEY",
+                    "definition": "PRIMARY KEY (UserID, HeroID)"
+                }
+            ],
+            "rows": [
+                [
+                    "bbf2a7ebcdb64df39b8c025589336882",
+                    "cd4399548f6b40c7a5b7c95de2255818",
+                    123,
+                    "Warrior",
+                    1,
+                    30,
+                    100,
+                    30,
+                    5,
+                    5,
+                    5,
+                    5,
+                    8,
+                    6.5,
+                    500,
+                    100,
+                    500,
+                    100,
+                    "bbf2a7ebcdb64df39b8c025589336882.liu.cd4399548f6b40c7a5b7c95de2255818.123"
+                ],
+                [
+                    "bbf2a7ebcdb64df39b8c025589336882",
+                    "ffa07f6dc596449880a415daa084f7c2",
+                    12,
+                    "Warrior",
+                    1,
+                    30,
+                    100,
+                    30,
+                    5,
+                    5,
+                    5,
+                    5,
+                    8,
+                    6.5,
+                    500,
+                    100,
+                    500,
+                    100,
+                    "bbf2a7ebcdb64df39b8c025589336882.liu.ffa07f6dc596449880a415daa084f7c2.12"
+                ],
+                [
+                    "bbf2a7ebcdb64df39b8c025589336882",
+                    "4f8b33170c1b47ef8a31c4f61dd5656e",
+                    11,
+                    "Warrior",
+                    1,
+                    30,
+                    100,
+                    30,
+                    5,
+                    5,
+                    5,
+                    5,
+                    8,
+                    6,
+                    500,
+                    40,
+                    500,
+                    200,
+                    "bbf2a7ebcdb64df39b8c025589336882.liu.4f8b33170c1b47ef8a31c4f61dd5656e.11"
+                ],
+                [
+                    "bbf2a7ebcdb64df39b8c025589336882",
+                    "eaad990214db474bb012e3cab78a1835",
+                    12,
+                    "Warrior",
+                    1,
+                    0,
+                    100,
+                    0,
+                    5,
+                    5,
+                    5,
+                    5,
+                    8,
+                    6,
+                    500,
+                    100,
+                    500,
+                    100,
+                    "bbf2a7ebcdb64df39b8c025589336882.liu.eaad990214db474bb012e3cab78a1835.12"
+                ],
+                [
+                    "bbf2a7ebcdb64df39b8c025589336882",
+                    "bfc47269c91b4674a385b4c22323c80c",
+                    "huang",
+                    "Warrior",
+                    1,
+                    10,
+                    100,
+                    10,
+                    5,
+                    5,
+                    5,
+                    5,
+                    8,
+                    6,
+                    500,
+                    100,
+                    500,
+                    200,
+                    "bbf2a7ebcdb64df39b8c025589336882.liu.bfc47269c91b4674a385b4c22323c80c.huang"
+                ],
+                [
+                    "bbf2a7ebcdb64df39b8c025589336882",
+                    "d7d3fc5e91e446b087e431ab273bda3b",
+                    12,
+                    "Wizard",
+                    1,
+                    0,
+                    100,
+                    0,
+                    5,
+                    5,
+                    5,
+                    5,
+                    8,
+                    6,
+                    148,
+                    93,
+                    500,
+                    200,
+                    "bbf2a7ebcdb64df39b8c025589336882.liu.d7d3fc5e91e446b087e431ab273bda3b.12"
+                ],
+                [
+                    "bbf2a7ebcdb64df39b8c025589336882",
+                    "6050669574bc445da18c3c44b2adb86c",
+                    123,
+                    "Warrior",
+                    1,
+                    0,
+                    100,
+                    0,
+                    5,
+                    5,
+                    5,
+                    5,
+                    8,
+                    6,
+                    500,
+                    70,
+                    500,
+                    200,
+                    "bbf2a7ebcdb64df39b8c025589336882.liu.6050669574bc445da18c3c44b2adb86c.123"
+                ]
+            ]
+        },
+        {
+            "type": "table",
+            "database": null,
+            "name": "EnemyInfo",
+            "withoutRowId": true,
+            "ddl": "CREATE TABLE EnemyInfo (EnemyID INTEGER PRIMARY KEY, Lv INTEGER, EnemyName STRING, MaxHp INTEGER, AttackPower INTEGER, DefencePower INTEGER, Description STRING)",
+            "columns": [
+                {
+                    "name": "EnemyID",
+                    "type": "INTEGER",
+                    "constraints": [
+                        {
+                            "type": "PRIMARY KEY",
+                            "definition": "PRIMARY KEY"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lv",
+                    "type": "INTEGER"
+                },
+                {
+                    "name": "EnemyName",
+                    "type": "STRING"
+                },
+                {
+                    "name": "MaxHp",
+                    "type": "INTEGER"
+                },
+                {
+                    "name": "AttackPower",
+                    "type": "INTEGER"
+                },
+                {
+                    "name": "DefencePower",
+                    "type": "INTEGER"
+                },
+                {
+                    "name": "Description",
+                    "type": "STRING"
+                }
+            ],
+            "rows": [
+                [
+                    1,
+                    1,
+                    "狼人",
+                    100,
+                    30,
+                    10,
+                    "普通的狼人，月圆之夜会变身"
+                ]
+            ]
+        }
+    ]
+}

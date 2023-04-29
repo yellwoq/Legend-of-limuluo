@@ -1,0 +1,1438 @@
+fileFormatVersion: 2
+guid: 10a41e522ec4bbc43bbbda6363e9ac26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5039352753141477720
+    second: Equip5.png_0
+  - first:
+      213: -7574776840942300855
+    second: Equip5.png_1
+  - first:
+      213: 6659734169713546065
+    second: Equip5.png_2
+  - first:
+      213: 7539220954420145826
+    second: Equip5.png_3
+  - first:
+      213: -6468300943570715353
+    second: Equip5.png_4
+  - first:
+      213: -6774301336862253331
+    second: Equip5.png_5
+  - first:
+      213: 9120085219254323728
+    second: Equip5.png_6
+  - first:
+      213: 2025773411027810074
+    second: Equip5.png_7
+  - first:
+      213: 2659591499356296788
+    second: Equip5.png_8
+  - first:
+      213: 6143216805615379469
+    second: Equip5.png_9
+  - first:
+      213: -4619182971743798958
+    second: Equip5.png_10
+  - first:
+      213: 3557245007630883408
+    second: Equip5.png_11
+  - first:
+      213: 2452725923018032250
+    second: Equip5.png_12
+  - first:
+      213: 5877049363659522565
+    second: Equip5.png_13
+  - first:
+      213: -1725948741536672209
+    second: Equip5.png_14
+  - first:
+      213: -1411035177251113329
+    second: Equip5.png_15
+  - first:
+      213: 8265253359217569625
+    second: Equip5.png_16
+  - first:
+      213: -1072760197127075721
+    second: Equip5.png_17
+  - first:
+      213: -7299244301132730014
+    second: Equip5.png_18
+  - first:
+      213: -7208619087962039329
+    second: Equip5.png_19
+  - first:
+      213: -6623664064236380480
+    second: Equip5.png_20
+  - first:
+      213: 7341802245544997479
+    second: Equip5.png_21
+  - first:
+      213: 8410338536344236251
+    second: Equip5.png_22
+  - first:
+      213: 2301487209664976757
+    second: Equip5.png_23
+  - first:
+      213: 9010816156918404338
+    second: Equip5.png_24
+  - first:
+      213: 7338269296083343360
+    second: Equip5.png_25
+  - first:
+      213: -340515645578313660
+    second: Equip5.png_26
+  - first:
+      213: 3239192513156038634
+    second: Equip5.png_27
+  - first:
+      213: -4313636451479659949
+    second: Equip5.png_28
+  - first:
+      213: -6620824702078168820
+    second: Equip5.png_29
+  - first:
+      213: 782284248969190268
+    second: Equip5.png_30
+  - first:
+      213: 855547570206881888
+    second: Equip5.png_31
+  - first:
+      213: 2972562733289723201
+    second: Equip5.png_32
+  - first:
+      213: -4526423742051207023
+    second: Equip5.png_33
+  - first:
+      213: -1980713937282724782
+    second: Equip5.png_34
+  - first:
+      213: -3202769432442771567
+    second: Equip5.png_35
+  - first:
+      213: -2876180309768438143
+    second: Equip5.png_36
+  - first:
+      213: -6304436058955876234
+    second: Equip5.png_37
+  - first:
+      213: -2469995424085041425
+    second: Equip5.png_38
+  - first:
+      213: -764457960280116690
+    second: Equip5.png_39
+  - first:
+      213: 4326126234992545780
+    second: Equip5.png_40
+  - first:
+      213: -2724502396327969748
+    second: Equip5.png_41
+  - first:
+      213: 6962997257979663678
+    second: Equip5.png_42
+  - first:
+      213: 1076089345739600884
+    second: Equip5.png_43
+  - first:
+      213: 7049200234726791039
+    second: Equip5.png_44
+  - first:
+      213: 5501198863583045323
+    second: Equip5.png_45
+  - first:
+      213: -153996870019248775
+    second: Equip5.png_46
+  - first:
+      213: 758009042522731501
+    second: Equip5.png_47
+  - first:
+      213: 4147286935156009259
+    second: Equip5.png_48
+  - first:
+      213: -8699463855553855537
+    second: Equip5.png_49
+  - first:
+      213: -2666683738322522701
+    second: Equip5.png_50
+  - first:
+      213: 1609938077458382928
+    second: Equip5.png_51
+  - first:
+      213: -77813105274729052
+    second: Equip5.png_52
+  - first:
+      213: 4343375049540755565
+    second: Equip5.png_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Equip5.png_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 460
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae8d13ee5f901ab0800000000000000
+      internalID: -5039352753141477720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 456
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94157c6989cf0e690800000000000000
+      internalID: -7574776840942300855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 456
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1539e4c41f02c6c50800000000000000
+      internalID: 6659734169713546065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 452
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aee4677381b0a860800000000000000
+      internalID: 7539220954420145826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 450
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72db426ff8afb36a0800000000000000
+      internalID: -6468300943570715353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 460
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee1fde63d8dcf1a0800000000000000
+      internalID: -6774301336862253331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 460
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ac1f6cf2d019e70800000000000000
+      internalID: 9120085219254323728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 389
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a177ebf2f2efc1c10800000000000000
+      internalID: 2025773411027810074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 389
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456d7c6a064c8e420800000000000000
+      internalID: 2659591499356296788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 389
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d042ae4f227114550800000000000000
+      internalID: 6143216805615379469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 397
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2597da88f8d55efb0800000000000000
+      internalID: -4619182971743798958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 395
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05aded2cc7fdd5130800000000000000
+      internalID: 3557245007630883408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_12
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 395
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74c1ec5b35d90220800000000000000
+      internalID: 2452725923018032250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_13
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 391
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5028c5022497f8150800000000000000
+      internalID: 5877049363659522565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 326
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f269c2893c23c08e0800000000000000
+      internalID: -1725948741536672209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 350
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86fd567bfefa6ce0800000000000000
+      internalID: -1411035177251113329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 328
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f64c6932414b270800000000000000
+      internalID: 8265253359217569625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 334
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7780011d84acc11f0800000000000000
+      internalID: -1072760197127075721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 330
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261703e2bffd3ba90800000000000000
+      internalID: -7299244301132730014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 326
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb1ce4e127d5fb90800000000000000
+      internalID: -7208619087962039329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_20
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 326
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce9ba390a40414a0800000000000000
+      internalID: -6623664064236380480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_21
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 326
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762ffd86e3253e560800000000000000
+      internalID: 7341802245544997479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 334
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0b393c65687b470800000000000000
+      internalID: 8410338536344236251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_23
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 338
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5779f236c6680ff10800000000000000
+      internalID: 2301487209664976757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4d879ad89dc0d70800000000000000
+      internalID: 9010816156918404338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_25
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 263
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00814338b05c6d560800000000000000
+      internalID: 7338269296083343360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 253
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44087d013de364bf0800000000000000
+      internalID: -340515645578313660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_27
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 253
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef35c1cd6ce3fc20800000000000000
+      internalID: 3239192513156038634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_28
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 263
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ad0638082e224c0800000000000000
+      internalID: -4313636451479659949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_29
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 261
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01df78130b1e14a0800000000000000
+      internalID: -6620824702078168820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_30
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 261
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b1135316b3bda00800000000000000
+      internalID: 782284248969190268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 230
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06831a27bf38fdb00800000000000000
+      internalID: 855547570206881888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 182
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1455c4e7e0aa04920800000000000000
+      internalID: 2972562733289723201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 188
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198b420b699ee21c0800000000000000
+      internalID: -4526423742051207023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_34
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 182
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c09961b271384e0800000000000000
+      internalID: -1980713937282724782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 220
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197e4c19b2a7d83d0800000000000000
+      internalID: -3202769432442771567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 188
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e77463f31c518d0800000000000000
+      internalID: -2876180309768438143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_37
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 190
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67875c48ec42288a0800000000000000
+      internalID: -6304436058955876234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_38
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 192
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee12969f30d8bdd0800000000000000
+      internalID: -2469995424085041425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_39
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 190
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22b8cf09891465f0800000000000000
+      internalID: -764457960280116690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 113
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff8a32d3ec790c30800000000000000
+      internalID: 4326126234992545780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 119
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cbb2d618f903ad0800000000000000
+      internalID: -2724502396327969748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_42
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 115
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3595e55d1981a060800000000000000
+      internalID: 6962997257979663678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_43
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 127
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3346ffe890fee00800000000000000
+      internalID: 1076089345739600884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_44
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 125
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f779d75e34ac3d160800000000000000
+      internalID: 7049200234726791039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_45
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 125
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc666a6483f285c40800000000000000
+      internalID: 5501198863583045323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_46
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 125
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d0bf1a9a4ecddf0800000000000000
+      internalID: -153996870019248775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_47
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 58
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3f914453df48a00800000000000000
+      internalID: 758009042522731501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_48
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 58
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29a7978e7f1e8930800000000000000
+      internalID: 4147286935156009259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_49
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 58
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfbc5117bb454780800000000000000
+      internalID: -8699463855553855537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_50
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 58
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bda9f8c4490efad0800000000000000
+      internalID: -2666683738322522701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_51
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 58
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0504841d626a75610800000000000000
+      internalID: 1609938077458382928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_52
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 50
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adca3d946d8beef0800000000000000
+      internalID: -77813105274729052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equip5.png_53
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 61
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60eb2a6894c64c30800000000000000
+      internalID: 4343375049540755565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bacb3b7a07e78604f81e764c739e3fb5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

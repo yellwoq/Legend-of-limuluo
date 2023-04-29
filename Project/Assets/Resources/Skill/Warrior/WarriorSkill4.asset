@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cc4eede02c939848a82dbebb3b1830b, type: 3}
+  m_Name: WarriorSkill4
+  m_EditorClassIdentifier: 
+  skillID: Warrior4
+  skillName: "\u5251\u98CE\u6B8B\u5F71"
+  level: 0
+  maxlevel: 3
+  coolingtime: 15
+  isCoding: 0
+  initMpCons: 30
+  heroType: 0
+  skillEffect: {fileID: 2820767573156690826, guid: 854ae92eb83066b4aa4f734639c9bd11,
+    type: 3}
+  skillIcon: {fileID: 21300000, guid: c4ab8600f12fdcf4f9b3d16cada2ff5e, type: 3}
+  description: "\u4F1A\u7559\u4E0B\u4E00\u9053\u6B8B\u5F71\uFF0C\u91CA\u653E\u5DE8\u5251\uFF0C\u5E76\u5BF9\u654C\u4EBA\u9020\u621050+\uFF0820*\u7B49\u7EA7\uFF09\u7684\u6301\u7EED\u4F24\u5BB3\uFF0C\u6301\u7EED2\u79D2\uFF0C\u91CA\u653E\u540E\u4F1A\u77AC\u95F4\u79FB\u52A8\u5230\u654C\u4EBA\u540E\u65B9"
+  attackRange: 3
+  initdamage: 50
+  targetMask:
+    serializedVersion: 2
+    m_Bits: 2048
+  damageDelay: 1
+  collectDelay: 3
+  growthDamage: 20
+  mpConsGrowth: 15
+  startOffset:
+  - releaseDir: 0
+    posOffset: {x: 0, y: 0, z: 0}
+    rotateOffset: {x: 0, y: 0, z: 0}
+  - releaseDir: 1
+    posOffset: {x: 0, y: 0, z: 0}
+    rotateOffset: {x: 0, y: 0, z: 0}
+  - releaseDir: 2
+    posOffset: {x: 0, y: 0, z: 0}
+    rotateOffset: {x: 0, y: 0, z: 0}
+  - releaseDir: 3
+    posOffset: {x: 0, y: 0, z: 0}
+    rotateOffset: {x: 0, y: 0, z: 0}
+  skillattackMode: 16
+  attackAngle: 0
+  distance: 3
+  damagetime: 2
+  gainType: 0

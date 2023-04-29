@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: bc5afb8f90d60c44a83aad86ffe56c46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8095847338998063563
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u4E4C\u8D3C\u5A18_\u7231\u7ED9\u7F51_aigei_com_0"
+  - first:
+      213: -2887190794083093402
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u4E4C\u8D3C\u5A18_\u7231\u7ED9\u7F51_aigei_com_1"
+  - first:
+      213: 5192211555543696884
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u4E4C\u8D3C\u5A18_\u7231\u7ED9\u7F51_aigei_com_2"
+  - first:
+      213: -1652558053169707506
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u4E4C\u8D3C\u5A18_\u7231\u7ED9\u7F51_aigei_com_3"
+  - first:
+      213: -3943580137427028434
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u4E4C\u8D3C\u5A18_\u7231\u7ED9\u7F51_aigei_com_4"
+  - first:
+      213: 8542243462824259487
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u4E4C\u8D3C\u5A18_\u7231\u7ED9\u7F51_aigei_com_5"
+  - first:
+      213: -7371920343631088326
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u4E4C\u8D3C\u5A18_\u7231\u7ED9\u7F51_aigei_com_6"
+  - first:
+      213: 5116167636972202762
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u4E4C\u8D3C\u5A18_\u7231\u7ED9\u7F51_aigei_com_7"
+  - first:
+      213: 7489145318729315759
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u4E4C\u8D3C\u5A18_\u7231\u7ED9\u7F51_aigei_com_8"
+  - first:
+      213: 3571106308744153087
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u4E4C\u8D3C\u5A18_\u7231\u7ED9\u7F51_aigei_com_9"
+  - first:
+      213: 7011791610317899795
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u4E4C\u8D3C\u5A18_\u7231\u7ED9\u7F51_aigei_com_10"
+  - first:
+      213: -5938642626203405525
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u4E4C\u8D3C\u5A18_\u7231\u7ED9\u7F51_aigei_com_11"
+  - first:
+      213: 1025568537275104672
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u4E4C\u8D3C\u5A18_\u7231\u7ED9\u7F51_aigei_com_12"
+  - first:
+      213: -758995428114141741
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u4E4C\u8D3C\u5A18_\u7231\u7ED9\u7F51_aigei_com_13"
+  - first:
+      213: -6214446691219261948
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u4E4C\u8D3C\u5A18_\u7231\u7ED9\u7F51_aigei_com_14"
+  - first:
+      213: 4842793584025494582
+    second: "\u53F2\u4E0A\u6700\u5168\u7684\u52A8\u6F2B\u89D2\u82724\u65B9\u5411\u884C\u8D70\u56FE-\u4E4C\u8D3C\u5A18_\u7231\u7ED9\u7F51_aigei_com_15"
+  - first:
+      213: -7666739680829969089
+    second: Archmagus_weiLi_0
+  - first:
+      213: -4554514458486271660
+    second: Archmagus_weiLi_1
+  - first:
+      213: 8583395540407797701
+    second: Archmagus_weiLi_2
+  - first:
+      213: -7961104345014969679
+    second: Archmagus_weiLi_3
+  - first:
+      213: 4827346870538020861
+    second: Archmagus_weiLi_0
+  - first:
+      213: 1343688181893217176
+    second: Archmagus_weiLi_1
+  - first:
+      213: 518984247575627250
+    second: Archmagus_weiLi_2
+  - first:
+      213: -1800636496241820305
+    second: Archmagus_weiLi_3
+  - first:
+      213: -5530737759309257799
+    second: Archmagus_weiLi_4
+  - first:
+      213: -2903102193677510834
+    second: Archmagus_weiLi_5
+  - first:
+      213: 2077137465603318604
+    second: Archmagus_weiLi_6
+  - first:
+      213: -2642456434688260972
+    second: Archmagus_weiLi_7
+  - first:
+      213: -1698507148235319406
+    second: Archmagus_weiLi_8
+  - first:
+      213: 4193372680553202457
+    second: Archmagus_weiLi_9
+  - first:
+      213: -7749426050056727157
+    second: Archmagus_weiLi_10
+  - first:
+      213: 7846728004154934575
+    second: Archmagus_weiLi_11
+  - first:
+      213: -7028660482882265218
+    second: Archmagus_weiLi_12
+  - first:
+      213: -2591854348890716527
+    second: Archmagus_weiLi_13
+  - first:
+      213: -5217032425226035825
+    second: Archmagus_weiLi_14
+  - first:
+      213: 2357198376828224671
+    second: Archmagus_weiLi_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Archmagus_weiLi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112.5
+        width: 32
+        height: 37.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df72302076e2ef240800000000000000
+      internalID: 4827346870538020861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archmagus_weiLi_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112.5
+        width: 32
+        height: 37.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bb2a2484db5a210800000000000000
+      internalID: 1343688181893217176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archmagus_weiLi_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112.5
+        width: 32
+        height: 37.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5c4c86c6dc33700800000000000000
+      internalID: 518984247575627250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archmagus_weiLi_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112.5
+        width: 32
+        height: 37.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6df6e795aad207e0800000000000000
+      internalID: -1800636496241820305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archmagus_weiLi_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75.5
+        width: 32
+        height: 37.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3288e9f4fde33b0800000000000000
+      internalID: -5530737759309257799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archmagus_weiLi_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 75.5
+        width: 32
+        height: 37.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47d137afeb16b7d0800000000000000
+      internalID: -2903102193677510834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archmagus_weiLi_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75.5
+        width: 32
+        height: 37.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43e0f2158973dc10800000000000000
+      internalID: 2077137465603318604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archmagus_weiLi_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 75.5
+        width: 32
+        height: 37.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49406fb7fdb145bd0800000000000000
+      internalID: -2642456434688260972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archmagus_weiLi_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38.5
+        width: 32
+        height: 37.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297d8fc6fb0bd68e0800000000000000
+      internalID: -1698507148235319406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archmagus_weiLi_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 38.5
+        width: 32
+        height: 37.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913833b4c3ad13a30800000000000000
+      internalID: 4193372680553202457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archmagus_weiLi_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 38.5
+        width: 32
+        height: 37.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85d531d012847490800000000000000
+      internalID: -7749426050056727157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archmagus_weiLi_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 38.5
+        width: 32
+        height: 37.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25c3c8cb8d25ec60800000000000000
+      internalID: 7846728004154934575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archmagus_weiLi_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 32
+        height: 37.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f1afeb78e257e90800000000000000
+      internalID: -7028660482882265218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archmagus_weiLi_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1.5
+        width: 32
+        height: 37.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19641d0b332e70cd0800000000000000
+      internalID: -2591854348890716527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archmagus_weiLi_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1.5
+        width: 32
+        height: 37.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d15b876a06997b0800000000000000
+      internalID: -5217032425226035825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archmagus_weiLi_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1.5
+        width: 32
+        height: 37.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9449fb4f6376b020800000000000000
+      internalID: 2357198376828224671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1e8e4eabde5490344ad2199d34931540
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

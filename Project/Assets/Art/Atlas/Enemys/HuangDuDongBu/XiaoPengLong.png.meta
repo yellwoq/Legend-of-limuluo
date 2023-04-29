@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 23dea1f9eaa176c4fa559545d4db461d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1467020937185576426
+    second: "\u602A\u7269_0"
+  - first:
+      213: -2586209740509255778
+    second: "\u602A\u7269_1"
+  - first:
+      213: -7324364612277930254
+    second: "\u602A\u7269_2"
+  - first:
+      213: 7293448735245962542
+    second: "\u602A\u7269_3"
+  - first:
+      213: 8524522310497323179
+    second: "\u602A\u7269_4"
+  - first:
+      213: -1283618925465498083
+    second: "\u602A\u7269_5"
+  - first:
+      213: 5927325241634372389
+    second: "\u602A\u7269_6"
+  - first:
+      213: -7429536642062962552
+    second: "\u602A\u7269_7"
+  - first:
+      213: 1564069819444563195
+    second: "\u602A\u7269_8"
+  - first:
+      213: 2486440629659857474
+    second: "\u602A\u7269_9"
+  - first:
+      213: -6211799974836443911
+    second: "\u602A\u7269_10"
+  - first:
+      213: -3337081073367196886
+    second: "\u602A\u7269_11"
+  - first:
+      213: -7167274113501158381
+    second: "\u602A\u7269_12"
+  - first:
+      213: -5316220018078757664
+    second: "\u602A\u7269_13"
+  - first:
+      213: 5776799298588071145
+    second: "\u602A\u7269_14"
+  - first:
+      213: 4398844848561902348
+    second: "\u602A\u7269_15"
+  - first:
+      213: 6702462911276239286
+    second: XiaoPengLong_0
+  - first:
+      213: 7609949141007523582
+    second: XiaoPengLong_1
+  - first:
+      213: 7818316943872781638
+    second: XiaoPengLong_2
+  - first:
+      213: 5552124124268531073
+    second: XiaoPengLong_3
+  - first:
+      213: -4923289708283771142
+    second: XiaoPengLong_4
+  - first:
+      213: 5057480701082153295
+    second: XiaoPengLong_5
+  - first:
+      213: 5829914339306108464
+    second: XiaoPengLong_6
+  - first:
+      213: -8489682597721675951
+    second: XiaoPengLong_7
+  - first:
+      213: -5207396065294000243
+    second: XiaoPengLong_8
+  - first:
+      213: -2917410485335465200
+    second: XiaoPengLong_9
+  - first:
+      213: -4972664419996014699
+    second: XiaoPengLong_10
+  - first:
+      213: -6266780040615071652
+    second: XiaoPengLong_11
+  - first:
+      213: -5061351248356198399
+    second: XiaoPengLong_12
+  - first:
+      213: -4490443866534734153
+    second: XiaoPengLong_13
+  - first:
+      213: -6822586453918484372
+    second: XiaoPengLong_14
+  - first:
+      213: 5800284103596972325
+    second: XiaoPengLong_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: XiaoPengLong_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 152
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9c9d2b18ee30d50800000000000000
+      internalID: 6702462911276239286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoPengLong_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 151
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeda8cac68fb9960800000000000000
+      internalID: 7609949141007523582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoPengLong_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 152
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d64f456dd308c60800000000000000
+      internalID: 7818316943872781638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoPengLong_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 151
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d07ef797b1d0d40800000000000000
+      internalID: 5552124124268531073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoPengLong_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6c8635816fcabb0800000000000000
+      internalID: -4923289708283771142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoPengLong_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 103
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f413566e6e7cf2640800000000000000
+      internalID: 5057480701082153295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoPengLong_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 103
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036fb41143408e050800000000000000
+      internalID: 5829914339306108464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoPengLong_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 103
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157ebfa58a69e2a80800000000000000
+      internalID: -8489682597721675951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoPengLong_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 55
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f526b5edc9bb7b0800000000000000
+      internalID: -5207396065294000243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoPengLong_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 55
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0136495ee964387d0800000000000000
+      internalID: -2917410485335465200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoPengLong_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 55
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597e9ea6e0c8dfab0800000000000000
+      internalID: -4972664419996014699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoPengLong_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 55
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5071a181cce709a0800000000000000
+      internalID: -6266780040615071652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoPengLong_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 7
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108bf361bd772c9b0800000000000000
+      internalID: -5061351248356198399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoPengLong_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 7
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b69d53481dbea1c0800000000000000
+      internalID: -4490443866534734153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoPengLong_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 7
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68fbcc84cd4151a0800000000000000
+      internalID: -6822586453918484372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoPengLong_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 7
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5291e3739afbe7050800000000000000
+      internalID: 5800284103596972325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

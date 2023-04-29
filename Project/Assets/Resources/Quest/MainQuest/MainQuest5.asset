@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7184531a236bcb746b1fb026e5ac9bbc, type: 3}
+  m_Name: MainQuest5
+  m_EditorClassIdentifier: 
+  defaultSprite: {fileID: 21300000, guid: a60bf055f21fff64d91c5557305f7a97, type: 3}
+  ID: MQ00005
+  isFirstAcceted: 1
+  title: "\u8FFD\u51FB\u51F6\u624B1"
+  description: "\u4F11\u606F\u591F\u4E86\uFF0C\u53BB\u627E\u7236\u7687\u4E86\u89E3\u4E00\u4E0B\u6848\u4EF6\u8FDB\u5C55\u5427"
+  abandonable: 0
+  acceptConditions:
+  - conditionType: 5
+    level: 1
+    IDOfCompleteQuest: 
+    completeQuest: {fileID: 11400000, guid: 5ce1305ece4482145bee4ed2d57d0522, type: 2}
+    IDOfOwnedItem: 
+    OwnedItemNum: 0
+    IDofStoryAgent: CastleInner000
+  - conditionType: 7
+    level: 0
+    IDOfCompleteQuest: 
+    completeQuest: {fileID: 0}
+    IDOfOwnedItem: 
+    OwnedItemNum: 0
+    IDofStoryAgent: CastleInner000
+  beginDialogue: {fileID: 0}
+  ongoingDialogue: {fileID: 0}
+  completeDialogue: {fileID: 0}
+  questReward:
+    money: 20
+    exp: 20
+    Itemrewards: []
+  cmpltOnOriginalNPC: 1
+  IDOfNPCToComplete: NPC000
+  cmpltObjectiveInOrder: 0
+  collectObjectives: []
+  killObjectives: []
+  talkObjectives:
+  - runtimeID: 
+    displayName: "\u627E\u56FD\u738B\u4E86\u89E3\u60C5\u51B5"
+    amount: 1
+    inOrder: 0
+    orderIndex: 1
+    talkerID: NPC001
+    dialogue: {fileID: 11400000, guid: 803fe1da5b6a27645aa34d470d777931, type: 2}
+  moveObjectives: []
+  MOriginQuestGiver: {fileID: 0}
+  MCurrentQuestGiver: {fileID: 0}
+  IsOngoing: 0
