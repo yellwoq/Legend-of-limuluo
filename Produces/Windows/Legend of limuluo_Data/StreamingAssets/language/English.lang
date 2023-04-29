@@ -1,0 +1,53 @@
+﻿#全局
+Legend of limuluo=Legend of limuluo
+Press the return key again to exit the game=Press the return key again to exit the game
+Setting=Setting
+#弹出框
+ok=ok
+# 用户系统UI
+#登陆面板
+Username=Username:
+Password=Password:
+Login=Login
+Register=Register
+Remember me=Remember me
+InputUN=Enter your userName...
+InputPW=Enter your password...
+#注册面板
+FirstPassword=First Input Password:
+SecondPassword=Input Password Again:
+Return=Return
+#设置面板
+SoundSetting=SoundSetting
+bgm=Background sound
+sfx=Game sound
+LanguageSetting=LanguageSetting
+LanguageSelect=Language choice:
+Change=Change
+ExitGame=ExitGame
+#操作设置面板
+Apply=Apply
+#操作说明面板
+Instruction=Instruction
+#主界面
+Welcome=Welcome:
+Hero name=Hero name:
+Hero type=Hero type:
+Hero level=Hero level:
+CONTINUE GAME=CONTINUE GAME
+START GAME=START GAME
+User settings=USER SETTINGS
+Delete=Delete
+Read progress=Read progress
+New progress=New progress
+Create=Create
+Cancel=Cancel
+Log out=Log out
+Change name=Change name
+Change password=Change password
+Please enter the name to modify=Please enter the name to modify...
+Please enter the password you want to change=Please enter the password you want to change...
+Enter the name of the hero you want=Enter the name of the hero you want...
+Please enter the hero's name=Please enter the hero's name:
+Please select hero type=Please select hero type:
+Create Hero=Create Hero
